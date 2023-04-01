@@ -8,7 +8,7 @@ export type Character = {
   bloodType?: string;
   height: number;
   weight: number;
-  threeSize?: { b: string; w: string; h: string };
+  threeSize?: { bust: number; waist: number; hip: number };
   cv: string;
   nickname: string[];
   skill?: string;

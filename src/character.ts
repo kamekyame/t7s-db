@@ -20,7 +20,7 @@ async function getCharacter(url: URL) {
     bloodType: string | undefined,
     height: number | undefined,
     weight: number | undefined,
-    threeSize: { b: string; w: string; h: string } | undefined,
+    threeSize: { bust: number; waist: number; hip: number } | undefined,
     cv: string | undefined,
     nickname: string[] = [],
     skill: string | undefined,
@@ -64,7 +64,11 @@ async function getCharacter(url: URL) {
         case "スリーサイズ": {
           const m = value.match(/B(\d+)／W(\d+)／H(\d+)/);
           if (!m) threeSize = undefined; // 非公表がいる
-          else threeSize = { b: m[1], w: m[2], h: m[3] };
+          else {threeSize = {
+              bust: Number(m[1]),
+              waist: Number(m[2]),
+              hip: Number(m[3]),
+            };}
           break;
         }
         case "CV": {

@@ -165,7 +165,7 @@
         "month": 1,
         "day": 1
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 144,
       "weight": 37,
       "threeSize": {
@@ -763,7 +763,7 @@
         "month": 11,
         "day": 15
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 138,
       "weight": 35,
       "threeSize": {
@@ -1008,7 +1008,7 @@
         "month": 4,
         "day": 30
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 166,
       "weight": 46,
       "threeSize": {
@@ -1319,7 +1319,7 @@
         "month": 12,
         "day": 31
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 153,
       "weight": 42,
       "threeSize": {
@@ -1508,7 +1508,7 @@
         "month": 3,
         "day": 3
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 140,
       "weight": 36,
       "threeSize": {
@@ -1560,7 +1560,7 @@
         "month": 3,
         "day": 25
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 158,
       "weight": 43,
       "cv": "渕上 舞",
@@ -1733,7 +1733,7 @@
         "month": 11,
         "day": 15
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 168,
       "weight": 48,
       "threeSize": {
@@ -1795,7 +1795,7 @@
         "month": 1,
         "day": 1
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 148,
       "weight": 41,
       "threeSize": {
@@ -1871,7 +1871,7 @@
         "month": 11,
         "day": 11
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 159,
       "weight": 45,
       "threeSize": {
@@ -1935,7 +1935,7 @@
         "month": 7,
         "day": 18
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 151,
       "weight": 44,
       "threeSize": {
@@ -1999,7 +1999,7 @@
         "month": 11,
         "day": 11
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 159,
       "weight": 45,
       "threeSize": {
@@ -2123,7 +2123,7 @@
         "month": 1,
         "day": 15
       },
-      "bloodType": "B",
+      "bloodType": "AB",
       "height": 153,
       "weight": 42,
       "threeSize": {

@@ -49,7 +49,7 @@ async function getCharacter(url: URL) {
           break;
         }
         case "血液型": {
-          const m = value.match(/(\w)型/);
+          const m = value.match(/(\w+)型/);
           if (!m) bloodType = undefined; // 非公表がいる
           else bloodType = m[1];
           break;

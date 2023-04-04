@@ -2765,7 +2765,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/01.png",
       "credit": {
         "lyrics": "kz (livetune)",
-        "music": "kz (livetune)"
+        "compose": "kz (livetune)"
       },
       "implementationDate": "2014-2-19",
       "title": "Star☆Glitter"
@@ -2778,7 +2778,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/02.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "ヒゲドライバー"
+        "compose": "ヒゲドライバー"
       },
       "implementationDate": "2014-3-28",
       "title": "PRIZM♪RIZM"
@@ -2791,7 +2791,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/03.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "U-ji aka 霊長類P"
+        "compose": "U-ji aka 霊長類P"
       },
       "implementationDate": "2014-4-18",
       "title": "AOZORA TRAIN"
@@ -2804,7 +2804,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/04.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "U-ji aka 霊長類P"
+        "compose": "U-ji aka 霊長類P"
       },
       "implementationDate": "2014-5-1",
       "title": "オ・モ・イ アプローチ"
@@ -2817,7 +2817,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/05.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "ヒゲドライバー"
+        "compose": "ヒゲドライバー"
       },
       "implementationDate": "2014-5-29",
       "title": "たいくつりぼん"
@@ -2830,7 +2830,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/06.png",
       "credit": {
         "lyrics": "UM-E-MO",
-        "music": "Junky"
+        "compose": "Junky"
       },
       "implementationDate": "2014-11-13",
       "title": "ワタシ・愛・forU!!"
@@ -2843,7 +2843,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/07.png",
       "credit": {
         "lyrics": "Dr.Serge",
-        "music": "emon"
+        "compose": "emon"
       },
       "implementationDate": "2014-11-27",
       "title": "B.A.A.B."
@@ -2856,7 +2856,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/08.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "fu_mou"
+        "compose": "fu_mou"
       },
       "implementationDate": "2014-12-25",
       "title": "H-A-J-I-M-A-R-I-U-T-A-!!"
@@ -2869,7 +2869,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/09.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "y0c1e"
+        "compose": "y0c1e"
       },
       "implementationDate": "2015-1-22",
       "title": "Cocoro Magical"
@@ -2882,7 +2882,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/10.png",
       "credit": {
         "lyrics": "Kz(livetune)",
-        "music": "Kz(livetune)"
+        "compose": "Kz(livetune)"
       },
       "implementationDate": "2015-2-19",
       "title": "Sparkle☆Time!!"
@@ -2895,7 +2895,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/100.png",
       "credit": {
         "lyrics": "Kyota.",
-        "music": "Kyota."
+        "compose": "Kyota."
       },
       "implementationDate": "2022-1-25",
       "title": "Striking Diamond"
@@ -2908,7 +2908,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1001.png",
       "credit": {
         "lyrics": "OHKA",
-        "music": "柿迫ヒカル"
+        "compose": "柿迫ヒカル"
       },
       "implementationDate": "2022-2-27",
       "title": "Be Your Light"
@@ -2921,7 +2921,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1002.png",
       "credit": {
         "lyrics": "hAck-Ø.",
-        "music": "KOUGA"
+        "compose": "KOUGA"
       },
       "implementationDate": "2022-4-26",
       "title": "Starlight☆Asterism!!!"
@@ -2934,7 +2934,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1003.png",
       "credit": {
         "lyrics": "前田甘露",
-        "music": "三浦博健(Hirotake Miura)"
+        "compose": "三浦博健(Hirotake Miura)"
       },
       "implementationDate": "2022-5-24",
       "title": "Reach for the Meteor"
@@ -2947,7 +2947,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1004.png",
       "credit": {
         "lyrics": "原田雄一",
-        "music": "原田雄一"
+        "compose": "原田雄一"
       },
       "implementationDate": "2022-7-26",
       "title": "New Age"
@@ -2960,7 +2960,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1005.png",
       "credit": {
         "lyrics": "法戸祐樹",
-        "music": "法戸祐樹"
+        "compose": "法戸祐樹"
       },
       "implementationDate": "2022-11-1",
       "title": "WONDEЯ GIRL"
@@ -2973,7 +2973,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1006.png",
       "credit": {
         "lyrics": "Maho Hamaguchi",
-        "music": "戸嶋友祐"
+        "compose": "戸嶋友祐"
       },
       "implementationDate": "2022-10-25",
       "title": "You & I ="
@@ -2986,7 +2986,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1007.png",
       "credit": {
         "lyrics": "Mio Aoyama",
-        "music": "渡辺徹"
+        "compose": "渡辺徹"
       },
       "implementationDate": "2023-3-4",
       "title": "Protostar"
@@ -2999,7 +2999,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1008.png",
       "credit": {
         "lyrics": "セリザワケイコ",
-        "music": "三浦博健"
+        "compose": "三浦博健"
       },
       "implementationDate": "2023-3-4",
       "title": "Endless Moment"
@@ -3012,7 +3012,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1009.png",
       "credit": {
         "lyrics": "宮腰侑子",
-        "music": "シバサキユウキ"
+        "compose": "シバサキユウキ"
       },
       "implementationDate": "2023-3-4",
       "title": "Hidden Stages"
@@ -3025,7 +3025,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/101.png",
       "credit": {
         "lyrics": "Uyu(ACRYLICSTAB)",
-        "music": "阿部隆大(アベリューダイ)"
+        "compose": "阿部隆大(アベリューダイ)"
       },
       "implementationDate": "2022-5-10",
       "title": "Daze forU!!"
@@ -3038,7 +3038,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1010.png",
       "credit": {
         "lyrics": "東乃カノ",
-        "music": "Yoma"
+        "compose": "Yoma"
       },
       "implementationDate": "2023-3-4",
       "title": "Find Me"
@@ -3051,7 +3051,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1011.png",
       "credit": {
         "lyrics": "Mahiro",
-        "music": "三浦博健"
+        "compose": "三浦博健"
       },
       "implementationDate": "2023-3-4",
       "title": "We Are Stars"
@@ -3064,7 +3064,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1012.png",
       "credit": {
         "lyrics": "みきちゅ",
-        "music": "Yoma"
+        "compose": "Yoma"
       },
       "implementationDate": "2023-3-4",
       "title": "Magic hour"
@@ -3077,7 +3077,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1013.png",
       "credit": {
         "lyrics": "宮腰侑子",
-        "music": "Chikuwan"
+        "compose": "Chikuwan"
       },
       "implementationDate": "2023-3-4",
       "title": "SERENDIPITY"
@@ -3090,7 +3090,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1014.png",
       "credit": {
         "lyrics": "Irodori Kaoru",
-        "music": "Akki"
+        "compose": "Akki"
       },
       "implementationDate": "2023-3-4",
       "title": "Time Machine"
@@ -3103,7 +3103,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1015.png",
       "credit": {
         "lyrics": "5u5h1",
-        "music": "5u5h1"
+        "compose": "5u5h1"
       },
       "implementationDate": "2023-2-7",
       "title": "ゴチャメチャ×ワンダーランド"
@@ -3116,7 +3116,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1016.png",
       "credit": {
         "lyrics": "法戸祐樹",
-        "music": "法戸祐樹"
+        "compose": "法戸祐樹"
       },
       "implementationDate": "2023-3-4",
       "title": "ライフ・イズ・サーカス"
@@ -3129,7 +3129,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/102.png",
       "credit": {
         "lyrics": "坂井 月咲",
-        "music": "Akki"
+        "compose": "Akki"
       },
       "implementationDate": "2022-9-20",
       "title": "Make our sound"
@@ -3142,7 +3142,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/103.png",
       "credit": {
         "lyrics": "Chinozo",
-        "music": "Chinozo"
+        "compose": "Chinozo"
       },
       "implementationDate": "2022-6-7",
       "title": "Funny☆Clutch"
@@ -3155,7 +3155,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/104.png",
       "credit": {
         "lyrics": "Kyota.",
-        "music": "Kyota."
+        "compose": "Kyota."
       },
       "implementationDate": "2022-12-6",
       "title": "Raise One's Voice"
@@ -3168,7 +3168,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/105.png",
       "credit": {
         "lyrics": "Kyota.",
-        "music": "Kyota."
+        "compose": "Kyota."
       },
       "implementationDate": "2023-1-8",
       "title": "Binocular Vision"
@@ -3181,7 +3181,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/106.png",
       "credit": {
         "lyrics": "5u5h1",
-        "music": "5u5h1"
+        "compose": "5u5h1"
       },
       "implementationDate": "2022-10-4",
       "title": "Zenith"
@@ -3194,7 +3194,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/107.png",
       "credit": {
         "lyrics": "5u5h1",
-        "music": "5u5h1"
+        "compose": "5u5h1"
       },
       "implementationDate": "2022-12-6",
       "title": "Synergistic White"
@@ -3207,7 +3207,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/108_2.png",
       "credit": {
         "lyrics": "Kyota.",
-        "music": "Kyota."
+        "compose": "Kyota."
       },
       "implementationDate": "2022-10-4",
       "title": "Re:SONANCE"
@@ -3220,7 +3220,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/109.png",
       "credit": {
         "lyrics": "原田雄一",
-        "music": "原田雄一"
+        "compose": "原田雄一"
       },
       "implementationDate": "2023-1-8",
       "title": "Mirai Konzert"
@@ -3233,7 +3233,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/11.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "emon"
+        "compose": "emon"
       },
       "implementationDate": "2015-3-19",
       "title": "KILL☆ER☆TUNE☆R"
@@ -3246,7 +3246,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/110.png",
       "credit": {
         "lyrics": "Nika Lenz(Arte Refact)",
-        "music": "Nika Lenz(Arte Refact)"
+        "compose": "Nika Lenz(Arte Refact)"
       },
       "implementationDate": "2023-1-8",
       "title": "Bluenote Theory"
@@ -3259,7 +3259,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/111.png",
       "credit": {
         "lyrics": "TAG",
-        "music": "TAG"
+        "compose": "TAG"
       },
       "implementationDate": "2022-8-30",
       "title": "悠久の輪廻"
@@ -3271,7 +3271,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/112.png",
       "credit": {
         "lyrics": "裕野",
-        "music": "Hiroshi Uasmi"
+        "compose": "Hiroshi Uasmi"
       },
       "implementationDate": "2022-11-20",
       "title": "Along the way"
@@ -3283,7 +3283,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/113.png",
       "credit": {
         "lyrics": "深川琴美",
-        "music": "福田淳平"
+        "compose": "福田淳平"
       },
       "implementationDate": "2022-12-27",
       "title": "Wanna Be♡"
@@ -3296,7 +3296,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/12.png",
       "credit": {
         "lyrics": "UM-E-MO",
-        "music": "アベリューダイ"
+        "compose": "アベリューダイ"
       },
       "implementationDate": "2015-3-26",
       "title": "Hello...my friend"
@@ -3309,7 +3309,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/13.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "アベリューダイ"
+        "compose": "アベリューダイ"
       },
       "implementationDate": "2015-4-23",
       "title": "Clover×Clover"
@@ -3322,7 +3322,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/14.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "アベリューダイ"
+        "compose": "アベリューダイ"
       },
       "implementationDate": "2015-5-21",
       "title": "Girls Talk!!"
@@ -3335,7 +3335,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/15.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "mu-ray"
+        "compose": "mu-ray"
       },
       "implementationDate": "2015-6-18",
       "title": "お願い☆My Boy"
@@ -3348,7 +3348,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/16.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "KUMAROBO"
+        "compose": "KUMAROBO"
       },
       "implementationDate": "2015-7-23",
       "title": "僕らは青空になる"
@@ -3361,7 +3361,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/17.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "KUMAROBO"
+        "compose": "KUMAROBO"
       },
       "implementationDate": "2015-8-13",
       "title": "FUNBARE☆RUNNER"
@@ -3374,7 +3374,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/18.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Ken Ito"
+        "compose": "Ken Ito"
       },
       "implementationDate": "2015-8-27",
       "title": "SAKURA"
@@ -3387,7 +3387,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/19.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "emon"
+        "compose": "emon"
       },
       "implementationDate": "2015-9-25",
       "title": "-Zero"
@@ -3400,7 +3400,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/20.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Hiroyuki Maezawa"
+        "compose": "Hiroyuki Maezawa"
       },
       "implementationDate": "2015-10-22",
       "title": "TREAT OR TREAT?"
@@ -3413,7 +3413,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/21.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "ヒゲドライバー"
+        "compose": "ヒゲドライバー"
       },
       "implementationDate": "2015-11-26",
       "title": "YELLOW"
@@ -3426,7 +3426,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/22.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "ヒゲドライバー"
+        "compose": "ヒゲドライバー"
       },
       "implementationDate": "2015-12-24",
       "title": "Snow in \"I love you\""
@@ -3439,7 +3439,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/23.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "NOZOMU NAKAMURA"
+        "compose": "NOZOMU NAKAMURA"
       },
       "implementationDate": "2016-1-28",
       "title": "Behind Moon"
@@ -3452,7 +3452,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/24.png",
       "credit": {
         "lyrics": "kz(livetune)",
-        "music": "kz(livetune)"
+        "compose": "kz(livetune)"
       },
       "implementationDate": "2016-2-25",
       "title": "SEVENTH HAVEN"
@@ -3465,7 +3465,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/25.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Hideto Ishida"
+        "compose": "Hideto Ishida"
       },
       "implementationDate": "2016-3-24",
       "title": "ラバ×ラバ"
@@ -3478,7 +3478,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/26.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Takamitsu Ono"
+        "compose": "Takamitsu Ono"
       },
       "implementationDate": "2016-4-21",
       "title": "You Can't Win"
@@ -3491,7 +3491,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/27.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Ryo Takahashi"
+        "compose": "Ryo Takahashi"
       },
       "implementationDate": "2016-5-26",
       "title": "さよならレイニーレイディ"
@@ -3504,7 +3504,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/28.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Junpei Fukuda"
+        "compose": "Junpei Fukuda"
       },
       "implementationDate": "2016-6-23",
       "title": "セカイのヒミツ"
@@ -3517,7 +3517,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/29.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Takamitsu Ono"
+        "compose": "Takamitsu Ono"
       },
       "implementationDate": "2016-7-28",
       "title": "FALLING DOWN"
@@ -3530,7 +3530,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/30.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "KAN TAKAHIKO&ACCHU IWATA"
+        "compose": "KAN TAKAHIKO&ACCHU IWATA"
       },
       "implementationDate": "2016-8-25",
       "title": "ハネ☆る!!"
@@ -3543,7 +3543,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/31.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2016-9-15",
       "title": "Lucky☆Lucky"
@@ -3556,7 +3556,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/32.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2016-10-27",
       "title": "TRIGGER"
@@ -3569,7 +3569,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/33.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "SigN"
+        "compose": "SigN"
       },
       "implementationDate": "2016-11-24",
       "title": "Winning Day"
@@ -3582,7 +3582,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/34.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Satomi Kawasaki"
+        "compose": "Satomi Kawasaki"
       },
       "implementationDate": "2016-12-22",
       "title": "トワイライト"
@@ -3595,7 +3595,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/35.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Takamitsu Ono"
+        "compose": "Takamitsu Ono"
       },
       "implementationDate": "2017-1-26",
       "title": "Fire and Rose"
@@ -3608,7 +3608,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/36.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "ichi"
+        "compose": "ichi"
       },
       "implementationDate": "2017-2-23",
       "title": "タンポポ"
@@ -3621,7 +3621,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/37.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "SATSUKI-UPDATE"
+        "compose": "SATSUKI-UPDATE"
       },
       "implementationDate": "2017-4-27",
       "title": "ハルカゼ～You were here～"
@@ -3634,7 +3634,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/38.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "アベリューダイ"
+        "compose": "アベリューダイ"
       },
       "implementationDate": "2017-5-25",
       "title": "Hello...my friend(EMO edit)"
@@ -3647,7 +3647,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/39.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "アベリューダイ"
+        "compose": "アベリューダイ"
       },
       "implementationDate": "2017-6-22",
       "title": "Hello...my friend(HINA edit)"
@@ -3660,7 +3660,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/40.png",
       "credit": {
         "lyrics": "kz(livetune)/SATSUKI-UPDATE",
-        "music": "kz(livetune)"
+        "compose": "kz(livetune)"
       },
       "implementationDate": "2017-7-27",
       "title": "WORLD'S END"
@@ -3673,7 +3673,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/41.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Naoki Oka"
+        "compose": "Naoki Oka"
       },
       "implementationDate": "2017-8-31",
       "title": "スタートライン"
@@ -3686,7 +3686,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/42.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "KUMAROBO"
+        "compose": "KUMAROBO"
       },
       "implementationDate": "2017-9-28",
       "title": "STAY☆GOLD"
@@ -3699,7 +3699,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/43.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "KUMAROBO"
+        "compose": "KUMAROBO"
       },
       "implementationDate": "2017-10-26",
       "title": "PUNCH'D RANKER"
@@ -3712,7 +3712,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/44.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Daisuke Kadowaki"
+        "compose": "Daisuke Kadowaki"
       },
       "implementationDate": "2017-12-21",
       "title": "メロディーフラッグ"
@@ -3725,7 +3725,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/45.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Hiroyuki Maezawa"
+        "compose": "Hiroyuki Maezawa"
       },
       "implementationDate": "2018-1-25",
       "title": "Crazy Girl's Beat"
@@ -3738,7 +3738,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/46.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "sakutaro"
+        "compose": "sakutaro"
       },
       "implementationDate": "2018-3-1",
       "title": "プレゼント・フォー・ユー"
@@ -3751,7 +3751,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/47.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2018-4-19",
       "title": "シトラスは片想い"
@@ -3764,7 +3764,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/48.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "inn"
+        "compose": "inn"
       },
       "implementationDate": "2018-5-24",
       "title": "CHECK’MATE"
@@ -3777,7 +3777,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/49.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2018-6-28",
       "title": "SHAKE!!～フリフリしちゃえ～"
@@ -3790,7 +3790,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/50.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Kazushi Suzuki"
+        "compose": "Kazushi Suzuki"
       },
       "implementationDate": "2018-7-26",
       "title": "星屑☆シーカー"
@@ -3803,7 +3803,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/51.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Hiramy"
+        "compose": "Hiramy"
       },
       "implementationDate": "2018-8-16",
       "title": "プレシャス・セトラ"
@@ -3816,7 +3816,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/52.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Daisuke Kadowaki"
+        "compose": "Daisuke Kadowaki"
       },
       "implementationDate": "2018-8-30",
       "title": "Clash!!!"
@@ -3829,7 +3829,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/53.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2018-9-14",
       "title": "ROCKな☆アタシ"
@@ -3842,7 +3842,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/54.png",
       "credit": {
         "lyrics": "Mahiro, SATSUKI-UPDATE",
-        "music": "Miho Mahara"
+        "compose": "Miho Mahara"
       },
       "implementationDate": "2018-9-14",
       "title": "青空Emotion"
@@ -3855,7 +3855,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/55.png",
       "credit": {
         "lyrics": "Shin Furuya, カナボシ☆ツクモ",
-        "music": "Toshiki Yamaguchi"
+        "compose": "Toshiki Yamaguchi"
       },
       "implementationDate": "2018-9-14",
       "title": "パフェ・デ・ラブソング"
@@ -3868,7 +3868,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/56.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Hiramy"
+        "compose": "Hiramy"
       },
       "implementationDate": "2018-9-27",
       "title": "14歳のサマーソーダ"
@@ -3881,7 +3881,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/57.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Cher Watanabe"
+        "compose": "Cher Watanabe"
       },
       "implementationDate": "2018-10-4",
       "title": "AMATERRAS"
@@ -3894,7 +3894,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/58.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "MICON STUDIO"
+        "compose": "MICON STUDIO"
       },
       "implementationDate": "2018-10-11",
       "title": "SHOW TIME"
@@ -3907,7 +3907,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/59.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "SATSUKI-UPDATE"
+        "compose": "SATSUKI-UPDATE"
       },
       "implementationDate": "2018-10-18",
       "title": "MELODY IN THE POCKET"
@@ -3920,7 +3920,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/60.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hiramy"
+        "compose": "Hiramy"
       },
       "implementationDate": "2018-10-25",
       "title": "ひまわりのストーリー"
@@ -3933,7 +3933,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/61.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "KUMAROBO"
+        "compose": "KUMAROBO"
       },
       "implementationDate": "2018-11-22",
       "title": "ラブリー♡オンリー"
@@ -3946,7 +3946,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/62.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hirotake Miura"
+        "compose": "Hirotake Miura"
       },
       "implementationDate": "2019-1-4",
       "title": "アイコトバ"
@@ -3959,7 +3959,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/63.png",
       "credit": {
         "lyrics": "MICON STUDIO,カナボシ☆ツクモ",
-        "music": "MICON STUDIO"
+        "compose": "MICON STUDIO"
       },
       "implementationDate": "2019-1-24",
       "title": "マスカレード・ナイト"
@@ -3972,7 +3972,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/64.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "MICON STUDIO"
+        "compose": "MICON STUDIO"
       },
       "implementationDate": "2019-2-28",
       "title": "花咲キオトメ"
@@ -3985,7 +3985,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/65.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2019-3-28",
       "title": "TRICK"
@@ -3998,7 +3998,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/66.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "MICON STUDIO,SATSUKI-UPDATE"
+        "compose": "MICON STUDIO,SATSUKI-UPDATE"
       },
       "implementationDate": "2019-4-18",
       "title": "スノードロップ"
@@ -4011,7 +4011,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/67.png",
       "credit": {
         "lyrics": "kz(livetune)",
-        "music": "kz(livetune)"
+        "compose": "kz(livetune)"
       },
       "implementationDate": "2019-5-9",
       "title": "HEAVEN'S RAVE"
@@ -4024,7 +4024,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/68.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hiroyuki Maezawa"
+        "compose": "Hiroyuki Maezawa"
       },
       "implementationDate": "2019-5-30",
       "title": "THUNDERBOLT"
@@ -4037,7 +4037,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/69.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hirotake Miura"
+        "compose": "Hirotake Miura"
       },
       "implementationDate": "2019-6-13",
       "title": "Majesty"
@@ -4050,7 +4050,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/70.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Takuya Fujita"
+        "compose": "Takuya Fujita"
       },
       "implementationDate": "2019-7-11",
       "title": "NATSUKAGE -夏陰-"
@@ -4063,7 +4063,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/71.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Tomoya Tabuchi"
+        "compose": "Tomoya Tabuchi"
       },
       "implementationDate": "2019-7-25",
       "title": "ミツバチ"
@@ -4076,7 +4076,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/72.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Tetsushi Enami"
+        "compose": "Tetsushi Enami"
       },
       "implementationDate": "2019-8-15",
       "title": "ひよこのうた"
@@ -4089,7 +4089,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/73.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hiroshi Usami"
+        "compose": "Hiroshi Usami"
       },
       "implementationDate": "2019-8-22",
       "title": "COCYTUS"
@@ -4102,7 +4102,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/74.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Yosuke Kurokawa"
+        "compose": "Yosuke Kurokawa"
       },
       "implementationDate": "2019-9-12",
       "title": "夏のビードロ☆シンフォニー"
@@ -4115,7 +4115,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/75.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Masaki Honda"
+        "compose": "Masaki Honda"
       },
       "implementationDate": "2019-9-26",
       "title": "R.B.E."
@@ -4128,7 +4128,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/76.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hiroyuki Maezawa"
+        "compose": "Hiroyuki Maezawa"
       },
       "implementationDate": "2019-10-3",
       "title": "Purple Raze"
@@ -4141,7 +4141,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/77.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Daisuke Kadowaki"
+        "compose": "Daisuke Kadowaki"
       },
       "implementationDate": "2019-10-10",
       "title": "Wake Up Heroine"
@@ -4154,7 +4154,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/78.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Toshiki Yamaguchi"
+        "compose": "Toshiki Yamaguchi"
       },
       "implementationDate": "2019-11-28",
       "title": "空色スキップ"
@@ -4167,7 +4167,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/79.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "MICON STUDIO"
+        "compose": "MICON STUDIO"
       },
       "implementationDate": "2019-12-5",
       "title": "SCARLET"
@@ -4180,7 +4180,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/80.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "kz(livetune)"
+        "compose": "kz(livetune)"
       },
       "implementationDate": "2019-12-12",
       "title": "光"
@@ -4193,7 +4193,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/81.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "MICON STUDIO"
+        "compose": "MICON STUDIO"
       },
       "implementationDate": "2020-1-9",
       "title": "マイ・グラデイション"
@@ -4206,7 +4206,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/82.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hiroshi Usami"
+        "compose": "Hiroshi Usami"
       },
       "implementationDate": "2020-2-6",
       "title": "Fall in Love"
@@ -4219,7 +4219,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/83.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Tomoya Tabuchi"
+        "compose": "Tomoya Tabuchi"
       },
       "implementationDate": "2020-3-5",
       "title": "LOVE AND DEVIL"
@@ -4232,7 +4232,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/84.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "Akiyuki Tateyama & Kohei Miyahara"
+        "compose": "Akiyuki Tateyama & Kohei Miyahara"
       },
       "implementationDate": "2020-4-30",
       "title": "コドーモ・デ・ヒーロ"
@@ -4245,7 +4245,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/85.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "SATSUKI-UPDATE"
+        "compose": "SATSUKI-UPDATE"
       },
       "implementationDate": "2020-5-21",
       "title": "DAYS"
@@ -4258,7 +4258,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/86.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "シバサキユウキ"
+        "compose": "シバサキユウキ"
       },
       "implementationDate": "2020-5-28",
       "title": "アイノシズク"
@@ -4271,7 +4271,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/87.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Hiroshi Usami"
+        "compose": "Hiroshi Usami"
       },
       "implementationDate": "2020-7-9",
       "title": "SUN SUN SUN"
@@ -4284,7 +4284,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/88.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "KUMAROBO"
+        "compose": "KUMAROBO"
       },
       "implementationDate": "2020-8-6",
       "title": "I AM"
@@ -4297,7 +4297,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/89.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Shinsuke Ono"
+        "compose": "Shinsuke Ono"
       },
       "implementationDate": "2020-10-1",
       "title": "KID BLUE ～裸の王様～"
@@ -4310,7 +4310,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/90.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "SATSUKI-UPDATE"
+        "compose": "SATSUKI-UPDATE"
       },
       "implementationDate": "2020-11-19",
       "title": "Across the Rainbow"
@@ -4323,7 +4323,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/91.png",
       "credit": {
         "lyrics": "SATSUKI-UPDATE",
-        "music": "Naoki Oka/SATSUKI-UPDATE"
+        "compose": "Naoki Oka/SATSUKI-UPDATE"
       },
       "implementationDate": "2020-12-17",
       "title": "リボン"
@@ -4336,7 +4336,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/92.png",
       "credit": {
         "lyrics": "カナボシ☆ツクモ",
-        "music": "白戸佑輔(Dream Monster)"
+        "compose": "白戸佑輔(Dream Monster)"
       },
       "implementationDate": "2021-1-21",
       "title": "Departures -あしたの歌-"
@@ -4349,7 +4349,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/93.png",
       "credit": {
         "lyrics": "kz(livetune)",
-        "music": "kz(livetune)"
+        "compose": "kz(livetune)"
       },
       "implementationDate": "2021-3-11",
       "title": "Shooting Sky"
@@ -4362,7 +4362,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/94.png",
       "credit": {
         "lyrics": "原田雄一",
-        "music": "原田雄一"
+        "compose": "原田雄一"
       },
       "implementationDate": "2021-8-26",
       "title": "恋セヨ乙女"
@@ -4375,7 +4375,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/95_1.png",
       "credit": {
         "lyrics": "中村彼方",
-        "music": "草野将史"
+        "compose": "草野将史"
       },
       "implementationDate": "2021-9-21",
       "title": "秋の空とこころ　コスモス"
@@ -4388,7 +4388,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/96.png",
       "credit": {
         "lyrics": "イワツボコーダイ",
-        "music": "GRP/イワツボコーダイ"
+        "compose": "GRP/イワツボコーダイ"
       },
       "implementationDate": "2021-10-26",
       "title": "恋をして"
@@ -4401,7 +4401,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/97.png",
       "credit": {
         "lyrics": "40mP",
-        "music": "40mP"
+        "compose": "40mP"
       },
       "implementationDate": "2021-11-24",
       "title": "Don! Kan! Boy!"
@@ -4414,7 +4414,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/98.png",
       "credit": {
         "lyrics": "前田甘露",
-        "music": "Akki"
+        "compose": "Akki"
       },
       "implementationDate": "2022-3-29",
       "title": "陽だまりの世界地図"
@@ -4427,7 +4427,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/99.png",
       "credit": {
         "lyrics": "前田甘露",
-        "music": "Hiroshi Usami"
+        "compose": "Hiroshi Usami"
       },
       "implementationDate": "2021-12-19",
       "title": "HOLY QUEEN"

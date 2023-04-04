@@ -13,7 +13,7 @@ async function getIngame(url: string) {
   const creditStr = doc.querySelector(".box-release-cover__credit")
     ?.textContent;
   const lyrics = creditStr?.match(/作詞：(.*)/)?.[1];
-  const music = creditStr?.match(/作曲：(.*)/)?.[1];
+  const compose = creditStr?.match(/作曲：(.*)/)?.[1];
 
   let lead = doc.querySelector(".box-release-detail__lead")?.textContent;
   lead = lead?.split("\n").map((t) => t.trim()).join("\n").trim();
@@ -23,7 +23,7 @@ async function getIngame(url: string) {
   );
   jacketSrc = jacketSrc && new URL(jacketSrc, url).href;
 
-  if (!lead || !jacketSrc || !lyrics || !music) {
+  if (!lead || !jacketSrc || !lyrics || !compose) {
     throw Error("Failed to get metadata : " + url);
   }
 
@@ -33,7 +33,7 @@ async function getIngame(url: string) {
     jacketSrc,
     credit: {
       lyrics,
-      music,
+      compose,
     },
   };
 }

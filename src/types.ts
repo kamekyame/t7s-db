@@ -43,7 +43,7 @@ export type Ingame = {
   jacketSrc: string;
   credit: {
     lyrics: string;
-    music: string;
+    compose: string;
   };
 };
 

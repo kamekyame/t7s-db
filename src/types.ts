@@ -33,7 +33,7 @@ export type Unit = {
   logoImgSrc: string;
 };
 
-export type InGame = {
+export type Ingame = {
   url: string;
   implementationDate: string;
   artist: string;

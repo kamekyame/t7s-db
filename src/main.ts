@@ -3,7 +3,7 @@ import { getUnits } from "./unit.ts";
 import { getIngames } from "./ingame.ts";
 import { getCds } from "./cd.ts";
 import { getDvds } from "./dvd.ts";
-import { CD, Character, DVD, InGame, Unit } from "./types.ts";
+import { CD, Character, DVD, Ingame, Unit } from "./types.ts";
 
 const characters: Character[] = await getCharacters();
 const units: Unit[] = await getUnits();
@@ -37,7 +37,7 @@ function parseArtistAndReleaseType(artistAndReleaseType: string) {
   return { artist, releaseType };
 }
 
-const ingames: InGame[] = ingames_.map((ingame) => {
+const ingames: Ingame[] = ingames_.map((ingame) => {
   const { artistAndReleaseType, ...others } = ingame;
 
   const { artist, releaseType } = parseArtistAndReleaseType(

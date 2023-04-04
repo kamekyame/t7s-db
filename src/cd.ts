@@ -1,4 +1,4 @@
-import { getDoc, querySelectorAll } from "./util.ts";
+import { getDoc, querySelectorAll, trimBrackets } from "./util.ts";
 
 const pageUrl = "https://t7s.jp/release/cd.html";
 
@@ -18,9 +18,10 @@ async function getCd(url: string) {
   const artistAndReleaseType = doc.querySelector(".box-release-cover__txt--md")
     ?.textContent;
 
-  const title = doc.querySelector(".box-release-cover__txt--la span")
-    ?.textContent
-    .slice(1, -1);
+  const title = trimBrackets(
+    doc.querySelector(".box-release-cover__txt--la span")
+      ?.textContent,
+  );
 
   let info = doc.querySelector(".box-release-detail__info")?.textContent;
   info = info?.split("\n").map((t) => t.trim()).join("\n").trim();

@@ -1,4 +1,4 @@
-import { getDoc, querySelectorAll } from "./util.ts";
+import { getDoc, querySelectorAll, trimBrackets } from "./util.ts";
 
 const pageUrl = "https://t7s.jp/release/index.html";
 
@@ -55,9 +55,10 @@ export async function getIngames() {
       ".box-release-cover__txt--md",
     )
       ?.textContent;
-    const title = element.querySelector(".box-release-cover__txt--la span")
-      ?.textContent
-      .slice(1, -1);
+    const title = trimBrackets(
+      element.querySelector(".box-release-cover__txt--la span")
+        ?.textContent,
+    );
     if (!artistAndReleaseType || !title) {
       throw Error("Failed to get metadata");
     }

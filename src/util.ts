@@ -38,3 +38,9 @@ export function querySelectorAll(
   const nodeList = doc.querySelectorAll(selectors);
   return Array.from(nodeList) as Element[];
 }
+
+export function trimBrackets(str?: string) {
+  const match = str?.trim().match(/^「?(.*?)」?$/);
+  if (!match) return undefined;
+  return match[1];
+}

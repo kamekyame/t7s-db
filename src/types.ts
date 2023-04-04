@@ -29,8 +29,8 @@ export type Unit = {
     faceImgSrc: string;
     name: string;
   }[];
-  visualImgSrc?: string;
-  logoImgSrc?: string;
+  visualImgSrc: string;
+  logoImgSrc: string;
 };
 
 export type InGame = {

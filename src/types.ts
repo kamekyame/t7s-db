@@ -50,7 +50,7 @@ export type Ingame = {
 export type CD = {
   url: string;
   title: string;
-  implementationDate: string;
+  releaseDate: string;
   artist?: string;
   releaseType?: string;
   info: string;
@@ -60,7 +60,7 @@ export type CD = {
 export type DVD = {
   url: string;
   title: string;
-  implementationDate: string;
+  releaseDate: string;
   artist?: string;
   releaseType?: string;
   info: string;

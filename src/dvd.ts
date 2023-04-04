@@ -13,7 +13,7 @@ async function getDvd(url: string) {
   const sm = doc.querySelector(".box-release-cover__txt--sm")?.textContent;
   const smMatch = sm?.match(/(\d+)年(\d+)月(\d+)日/);
   if (!smMatch) throw Error("Failed to get implementaion date : " + sm);
-  const implementationDate = `${smMatch[1]}-${smMatch[2]}-${smMatch[3]}`;
+  const releaseDate = `${smMatch[1]}-${smMatch[2]}-${smMatch[3]}`;
 
   const artistAndReleaseType = doc.querySelector(".box-release-cover__txt--md")
     ?.textContent;
@@ -36,7 +36,7 @@ async function getDvd(url: string) {
 
   return {
     url,
-    implementationDate,
+    releaseDate,
     artistAndReleaseType,
     title,
     info,

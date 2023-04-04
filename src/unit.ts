@@ -60,6 +60,7 @@ async function getUnit(url: URL) {
   let info = doc.querySelector(".box-unit-detail__info p")?.textContent;
   info = info?.trim();
   info = info?.split("\n").map((t) => t.trim()).join("");
+  if (!info) throw Error("Failed to get character info");
 
   const members = [];
 
@@ -89,6 +90,7 @@ async function getUnit(url: URL) {
     members,
     visualImgSrc,
     logoImgSrc,
+    info,
   };
 }
 

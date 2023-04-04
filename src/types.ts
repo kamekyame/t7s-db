@@ -29,6 +29,7 @@ export type Unit = {
     faceImgSrc: string;
     name: string;
   }[];
+  info: string;
   visualImgSrc: string;
   logoImgSrc: string;
 };

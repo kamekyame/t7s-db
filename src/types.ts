@@ -14,7 +14,7 @@ export type Character = {
   skill?: string;
   favorite: string;
   affiliation?: string;
-  unit: string[];
+  units: string[];
   normalImgSrc?: string;
   idolImgSrc?: string;
   imgImgSrc?: string;

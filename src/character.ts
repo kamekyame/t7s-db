@@ -26,7 +26,7 @@ async function getCharacter(url: URL) {
     skill: string | undefined,
     favorite: string | undefined,
     affiliation: string | undefined,
-    unit: string[] = [];
+    units: string[] = [];
 
   const rowElements = querySelectorAll(doc, ".chara-modal-data__row");
   for await (const element of rowElements) {
@@ -95,8 +95,8 @@ async function getCharacter(url: URL) {
           break;
         }
         case "ユニット": {
-          if (value === "-") unit = [];
-          else unit = value.split(/\/|／/);
+          if (value === "-") units = [];
+          else units = value.split(/\/|／/);
           break;
         }
       }
@@ -137,7 +137,7 @@ async function getCharacter(url: URL) {
     skill,
     favorite,
     affiliation,
-    unit,
+    units,
     normalImgSrc,
     idolImgSrc,
     imgImgSrc,

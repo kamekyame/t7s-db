@@ -24,7 +24,7 @@
       "skill": "好きな夢を自由に見れる",
       "favorite": "友だち　ドーナツ",
       "affiliation": "マネージャー",
-      "unit": [],
+      "units": [],
       "imgImgSrc": "https://t7s.jp/image/page/character/modal/00_pc.png",
       "group": "ナナスタシスターズ"
     },
@@ -52,7 +52,7 @@
       "skill": "お掃除ですッ！！",
       "favorite": "歌うこと　キーホルダー",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "WITCH NUMBER 4"
       ],
@@ -84,7 +84,7 @@
       "skill": "落ちものゲーム",
       "favorite": "やきそばパン",
       "affiliation": "高校生　生徒会",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "NI+CORA"
       ],
@@ -116,7 +116,7 @@
       "skill": "お手玉くらいしか…",
       "favorite": "ニコさま　動物さん",
       "affiliation": "高校生　アルバイト",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "WITCH NUMBER 4"
       ],
@@ -148,7 +148,7 @@
       "skill": "早弁と配達だな",
       "favorite": "妹と弟　夕暮れの河川敷",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "WITCH NUMBER 4"
       ],
@@ -180,7 +180,7 @@
       "skill": "チューバックス味ソムリエ",
       "favorite": "だらだらアニメ見ること",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "WITCH NUMBER 4"
       ],
@@ -212,7 +212,7 @@
       "skill": "料理　いや、ホントだし",
       "favorite": "カラオケ♪　メロンソーダ",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "SiSH"
       ],
@@ -244,7 +244,7 @@
       "skill": "400メートル個人メドレー",
       "favorite": "練習後のアイス",
       "affiliation": "高校生　水泳部",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "SiSH"
       ],
@@ -276,7 +276,7 @@
       "skill": "弓道　茶道　でしょうか？",
       "favorite": "マナ姉さま　夏の避暑地",
       "affiliation": "高校生　弓道部",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "SiSH"
       ],
@@ -309,7 +309,7 @@
       "skill": "バレエダンス",
       "favorite": "香水集め　ビーチ",
       "affiliation": "留学生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "NI+CORA"
       ],
@@ -341,7 +341,7 @@
       "skill": "方向音痴　てへ",
       "favorite": "登山　カメラ　妹たち　",
       "affiliation": "大学生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "サンボンリボン"
       ],
@@ -373,7 +373,7 @@
       "skill": "お菓子作り",
       "favorite": "合唱会",
       "affiliation": "中学生　合唱部",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "サンボンリボン"
       ],
@@ -406,7 +406,7 @@
       "skill": "経理",
       "favorite": "カエルグッズ集め",
       "affiliation": "小学生",
-      "unit": [
+      "units": [
         "777☆SISTERS",
         "サンボンリボン",
         "コドモ連合"
@@ -439,7 +439,7 @@
       "skill": "どこでも寝られます",
       "favorite": "カフェでのんびりすること",
       "affiliation": "大学生　モデル",
-      "unit": [
+      "units": [
         "CASQUETTE'S"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/13_normal_l_pc.png",
@@ -470,7 +470,7 @@
       "skill": "アンタにはあんの？",
       "favorite": "ホラー映画、がキラい！",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "Le☆S☆Ca"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/14_normal_l_pc.png",
@@ -501,7 +501,7 @@
       "skill": "人の誕生日を忘れない♪",
       "favorite": "国内旅行　ドライブ",
       "affiliation": "大学生",
-      "unit": [
+      "units": [
         "CASQUETTE'S"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/15_normal_l_pc.png",
@@ -532,7 +532,7 @@
       "skill": "トランプは強いよ",
       "favorite": "音楽　夏フェス　お祭り",
       "affiliation": "高校生　軽音部",
-      "unit": [
+      "units": [
         "The QUEEN of PURPLE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/16_normal_l_pc.png",
@@ -563,7 +563,7 @@
       "skill": "フランス詩学",
       "favorite": "図書室のカーテン",
       "affiliation": "高校生　図書委員",
-      "unit": [],
+      "units": [],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/17_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/17_idol_l_pc.png",
       "group": "ナナスタシスターズ"
@@ -592,7 +592,7 @@
       "skill": "走り高跳びだよ",
       "favorite": "美術館巡り　カラータイツ",
       "affiliation": "高校生　陸上部",
-      "unit": [
+      "units": [
         "Le☆S☆Ca"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/18_normal_l_pc.png",
@@ -623,7 +623,7 @@
       "skill": "寝坊",
       "favorite": "とんこつラーメン",
       "affiliation": "高校生　茶道部",
-      "unit": [
+      "units": [
         "Le☆S☆Ca"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/19_normal_l_pc.png",
@@ -654,7 +654,7 @@
       "skill": "お弁当作り",
       "favorite": "支配人　子猫",
       "affiliation": "中学生　手芸部",
-      "unit": [
+      "units": [
         "Ci+LUS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/20_normal_l_pc.png",
@@ -685,7 +685,7 @@
       "skill": "ホルン…です",
       "favorite": "犬とお散歩",
       "affiliation": "中学生　吹奏楽部",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/21_normal_l_pc.png",
@@ -716,7 +716,7 @@
       "skill": "服つくり〜",
       "favorite": "えりんぎのお味噌汁〜",
       "affiliation": "高校生　衣服同好会",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/22_normal_l_pc.png",
@@ -747,7 +747,7 @@
       "skill": "同人活動",
       "favorite": "女子　漫画を描くこと",
       "affiliation": "高校生　漫画同好会",
-      "unit": [
+      "units": [
         "The QUEEN of PURPLE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/23_normal_l_pc.png",
@@ -778,7 +778,7 @@
       "skill": "賛美歌合唱",
       "favorite": "雪とオレンジの街灯",
       "affiliation": "留学生",
-      "unit": [
+      "units": [
         "コドモ連合"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/24_normal_l_pc.png",
@@ -809,7 +809,7 @@
       "skill": "三味線",
       "favorite": "ヌードル　オリガミ",
       "affiliation": "留学生",
-      "unit": [],
+      "units": [],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/25_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/25_idol_l_pc.png",
       "group": "ナナスタシスターズ"
@@ -838,7 +838,7 @@
       "skill": "傷の治りがすっごく早い",
       "favorite": "バスに乗ること",
       "affiliation": "中学生",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/26_normal_l_pc.png",
@@ -869,7 +869,7 @@
       "skill": "とくになしー",
       "favorite": "ショッピング",
       "affiliation": "フリーター",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/27_normal_l_pc.png",
@@ -900,7 +900,7 @@
       "skill": "霊媒になること",
       "favorite": "神社のひんやりした空気",
       "affiliation": "高校生　実家の神社",
-      "unit": [],
+      "units": [],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/28_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/28_idol_l_pc.png",
       "group": "ナナスタシスターズ"
@@ -929,7 +929,7 @@
       "skill": "ゲームならなんでも",
       "favorite": "メダル集め",
       "affiliation": "フリーター",
-      "unit": [
+      "units": [
         "The QUEEN of PURPLE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/29_normal_l_pc.png",
@@ -960,7 +960,7 @@
       "skill": "世界史",
       "favorite": "サボテン",
       "affiliation": "高校生　帰宅部",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/30_normal_l_pc.png",
@@ -992,7 +992,7 @@
       "skill": "ラクロス",
       "favorite": "甘いお菓子",
       "affiliation": "高校生　ラクロス部",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/31_normal_l_pc.png",
@@ -1023,7 +1023,7 @@
       "skill": "拳法　書道",
       "favorite": "チンジャオロース",
       "affiliation": "留学生　拳法部",
-      "unit": [
+      "units": [
         "七花少女"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/32_normal_l_pc.png",
@@ -1054,7 +1054,7 @@
       "skill": "魔法",
       "favorite": "アニメを見ること",
       "affiliation": "小学生",
-      "unit": [
+      "units": [
         "コドモ連合"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/33_normal_l_pc.png",
@@ -1085,7 +1085,7 @@
       "skill": "暗記",
       "favorite": "紅茶　帽子　古書堂巡り",
       "affiliation": "実家の古書堂",
-      "unit": [
+      "units": [
         "CASQUETTE'S"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/34_normal_l_pc.png",
@@ -1116,7 +1116,7 @@
       "skill": "ジャズボーカル",
       "favorite": "ペディキュア",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "The QUEEN of PURPLE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/35_normal_l_pc.png",
@@ -1148,7 +1148,7 @@
       "skill": "人に教えること",
       "favorite": "グラムロック",
       "affiliation": "大学生　家庭教師",
-      "unit": [
+      "units": [
         "CASQUETTE'S"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/36_normal_l_pc.png",
@@ -1179,7 +1179,7 @@
       "skill": "ネットサーフィン",
       "favorite": "虹色　コスプレ　メイドさん",
       "affiliation": "高校生　アルバイト",
-      "unit": [
+      "units": [
         "Ci+LUS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/37_normal_l_pc.png",
@@ -1210,7 +1210,7 @@
       "skill": "漢字テスト",
       "favorite": "りんご　晴れの日",
       "affiliation": "小学生",
-      "unit": [
+      "units": [
         "コドモ連合"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/38_normal_l_pc.png",
@@ -1241,7 +1241,7 @@
       "skill": "ドラム演奏",
       "favorite": "ポップコーン",
       "affiliation": "亜麻百合高等学校軽音部",
-      "unit": [
+      "units": [
         "4U"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/39_normal_l_pc.png",
@@ -1272,7 +1272,7 @@
       "skill": "人を無視すること",
       "favorite": "爬虫類",
       "affiliation": "亜麻百合高等学校軽音部",
-      "unit": [
+      "units": [
         "4U"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/40_normal_l_pc.png",
@@ -1303,7 +1303,7 @@
       "skill": "ギターボーカル",
       "favorite": "コスメグッズ集め",
       "affiliation": "亜麻百合高等学校軽音部",
-      "unit": [
+      "units": [
         "4U"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/41_normal_l_pc.png",
@@ -1334,7 +1334,7 @@
       "skill": "テレパシー ユニゾンダンス",
       "favorite": "ヒトハ/フタバ(お互い)",
       "affiliation": "中学生",
-      "unit": [
+      "units": [
         "KARAKURI"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/42_normal_l_pc.png",
@@ -1365,7 +1365,7 @@
       "skill": "好きな夢を自由に見れる",
       "favorite": "友だち　ドーナツ",
       "affiliation": "セブンスシスターズ",
-      "unit": [
+      "units": [
         "セブンスシスターズ"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/43_normal_l_pc.png",
@@ -1397,7 +1397,7 @@
       "skill": "歌",
       "favorite": "歌　豆腐",
       "affiliation": "セブンスシスターズ",
-      "unit": [
+      "units": [
         "セブンスシスターズ"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/44_normal_l_pc.png",
@@ -1429,7 +1429,7 @@
       "skill": "新体操　ピアノ",
       "favorite": "温泉めぐり　卓球",
       "affiliation": "セブンスシスターズ",
-      "unit": [
+      "units": [
         "セブンスシスターズ"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/45_normal_l_pc.png",
@@ -1460,7 +1460,7 @@
       "skill": "クルトキックだぞ！",
       "favorite": "トランポリン",
       "affiliation": "セブンスシスターズ",
-      "unit": [
+      "units": [
         "セブンスシスターズ"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/46_normal_l_pc.png",
@@ -1492,7 +1492,7 @@
       "skill": "ロードレーサー",
       "favorite": "こたつとみかん　だな☆",
       "affiliation": "セブンスシスターズ",
-      "unit": [
+      "units": [
         "セブンスシスターズ"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/47_normal_l_pc.png",
@@ -1523,7 +1523,7 @@
       "skill": "お料理なの♪",
       "favorite": "ファンのみんなだよぉ♪",
       "affiliation": "セブンスシスターズ",
-      "unit": [
+      "units": [
         "セブンスシスターズ"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/48_normal_l_pc.png",
@@ -1545,7 +1545,7 @@
       "nickname": [],
       "favorite": "特になし",
       "affiliation": "AXiS",
-      "unit": [
+      "units": [
         "AXiS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/49_normal_l_pc.png",
@@ -1567,7 +1567,7 @@
       "nickname": [],
       "favorite": "砂浜の砂",
       "affiliation": "AXiS",
-      "unit": [
+      "units": [
         "AXiS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/50_normal_l_pc.png",
@@ -1589,7 +1589,7 @@
       "nickname": [],
       "favorite": "ネバディロ・ブランコ（オリーブ）",
       "affiliation": "AXiS",
-      "unit": [
+      "units": [
         "AXiS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/51_normal_l_pc.png",
@@ -1611,7 +1611,7 @@
       "nickname": [],
       "favorite": "薄いビスケット",
       "affiliation": "AXiS",
-      "unit": [
+      "units": [
         "AXiS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/52_normal_l_pc.png",
@@ -1633,7 +1633,7 @@
       "nickname": [],
       "favorite": "スポーツカー",
       "affiliation": "AXiS",
-      "unit": [
+      "units": [
         "AXiS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/53_normal_l_pc.png",
@@ -1655,7 +1655,7 @@
       "nickname": [],
       "favorite": "苺のショートケーキ",
       "affiliation": "AXiS",
-      "unit": [
+      "units": [
         "AXiS"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/54_normal_l_pc.png",
@@ -1686,7 +1686,7 @@
       "skill": "お洗濯",
       "favorite": "りんご　晴れの日",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "SEASON OF LOVE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/55_normal_l_pc.png",
@@ -1717,7 +1717,7 @@
       "skill": "予習復習",
       "favorite": "放課後の寄り道　映画鑑賞",
       "affiliation": "高校生",
-      "unit": [
+      "units": [
         "SEASON OF LOVE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/56_normal_l_pc.png",
@@ -1748,7 +1748,7 @@
       "skill": "美味しい和菓子屋探し",
       "favorite": "みたらし団子　ウォッカ　動物",
       "affiliation": "大学生　獣医学部",
-      "unit": [
+      "units": [
         "SEASON OF LOVE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/57_normal_l_pc.png",
@@ -1779,7 +1779,7 @@
       "skill": "事業計画作り",
       "favorite": "カエルグッズ集め",
       "affiliation": "大学生　経済学部",
-      "unit": [
+      "units": [
         "SEASON OF LOVE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/58_normal_l_pc.png",
@@ -1810,7 +1810,7 @@
       "skill": "アイドル目利き",
       "favorite": "もっとだらだらアニメを見ること",
       "affiliation": "マネージャー",
-      "unit": [],
+      "units": [],
       "imgImgSrc": "https://t7s.jp/image/page/character/modal/59_pc.png",
       "group": "2043"
     },
@@ -1826,7 +1826,7 @@
         "人攫いのソル"
       ],
       "favorite": "？？",
-      "unit": [],
+      "units": [],
       "imgImgSrc": "https://t7s.jp/image/page/character/modal/60_normal_l_pc.png",
       "group": "2043"
     },
@@ -1855,7 +1855,7 @@
       "skill": "早着替え",
       "favorite": "お祭り、入浴",
       "affiliation": "Stella MiNE",
-      "unit": [
+      "units": [
         "Stella MiNE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/61_normal_l_pc.png",
@@ -1887,7 +1887,7 @@
       "skill": "ホロコンでのゲームプレイ",
       "favorite": "観賞魚を眺める/コーヒー",
       "affiliation": "Stella MiNE",
-      "unit": [
+      "units": [
         "Stella MiNE"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/62_normal_l_pc.png",
@@ -1919,7 +1919,7 @@
       "skill": "早着替え",
       "favorite": "お祭り、入浴",
       "affiliation": "ナナスタW",
-      "unit": [
+      "units": [
         "Asterline"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/63_normal_l_pc.png",
@@ -1951,7 +1951,7 @@
       "skill": "長距離走、スクラップ帳作り",
       "favorite": "お母さんの作ってくれたカレー",
       "affiliation": "ナナスタW",
-      "unit": [
+      "units": [
         "Asterline"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/64_normal_l_pc.png",
@@ -1983,7 +1983,7 @@
       "skill": "紹介された趣味に次々ハマる",
       "favorite": "味のあまりしないもの",
       "affiliation": "ナナスタW",
-      "unit": [
+      "units": [
         "Asterline"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/65_normal_l_pc.png",
@@ -2014,7 +2014,7 @@
       "skill": "ホロコンでのゲームプレイ",
       "favorite": "観賞魚を眺める/コーヒー",
       "affiliation": "Roots.",
-      "unit": [
+      "units": [
         "Roots."
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/66_normal_l_pc.png",
@@ -2045,7 +2045,7 @@
       "skill": "家事全般",
       "favorite": "お菓子作り",
       "affiliation": "Roots.",
-      "unit": [
+      "units": [
         "Roots."
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/67_normal_l_pc.png",
@@ -2076,7 +2076,7 @@
       "skill": "音楽制作",
       "favorite": "フルーツを食べる",
       "affiliation": "Roots.",
-      "unit": [
+      "units": [
         "Roots."
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/68_normal_l_pc.png",
@@ -2107,7 +2107,7 @@
       "skill": "SNSを使いこなす、竹馬",
       "favorite": "エナジードリンク",
       "affiliation": "LuSyDolls",
-      "unit": [
+      "units": [
         "RiPoP"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/72_normal_l_pc.png",
@@ -2138,7 +2138,7 @@
       "skill": "なわとび / 習い事",
       "favorite": "かわいいばんそうこう集め/手軽に栄養補給できる物",
       "affiliation": "LuSyDolls",
-      "unit": [
+      "units": [
         "RiPoP"
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/73_normal_l_pc.png",

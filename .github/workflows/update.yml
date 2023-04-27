@@ -1,0 +1,19 @@
+name: Update JSON
+on: 
+  schedule:
+    - cron: "7 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: denoland/setup-deno@v1
+      - name: create
+        run: |
+          deno task create --update
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: "build[json]: Update data.json"

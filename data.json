@@ -3313,6 +3313,19 @@
     {
       "artist": "Le☆S☆Ca",
       "releaseType": "2nd Mini Album",
+      "url": "https://t7s.jp/release/ingame/115.html",
+      "lead": "照りつける日差し、濡れたTシャツを撫でる風、入道雲……\nLe☆S☆Caが歌う、\nレモンスカッシュのようにはじけて輝く\n爽やかな夏の恋模様。\nどこにいたってずっと繋がっているから。\n作曲は「宇佐美宏」氏、作詞は「Maho Hamaguchi」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/115.png",
+      "credit": {
+        "lyrics": "Maho Hamaguchi",
+        "compose": "宇佐美宏"
+      },
+      "implementationDate": "2023-4-29",
+      "title": "Summer Squash"
+    },
+    {
+      "artist": "Le☆S☆Ca",
+      "releaseType": "2nd Mini Album",
       "url": "https://t7s.jp/release/ingame/117.html",
       "lead": "色とりどりの春の中、\nひたむきに空を見上げる菜の花。\n「ここにいるから 気づいていいのよ？」\n誰でもない、わたし色に胸を張って、旋律を口ずさむ。\n作曲は「Chikuwan」氏、作詞は「Maho Hamaguchi」氏。",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/117.png",

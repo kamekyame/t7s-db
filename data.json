@@ -3402,6 +3402,19 @@
       "title": "WITH THE BEST SMILE"
     },
     {
+      "artist": "The QUEEN of PURPLE",
+      "releaseType": "12th single",
+      "url": "https://t7s.jp/release/ingame/119.html",
+      "lead": "隠した本音を曝け出してぶつかればわかる。\n“自分らしさ”ってやつがどんな形なのか\n肩書もプライドも脱ぎ捨てて、裸足で助走をつければ\nその翼で、どこへでも飛んで行ける。\n作曲は「KUMAROBO」氏、作詞は「裕野」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/119.png",
+      "credit": {
+        "lyrics": "裕野",
+        "compose": "KUMAROBO"
+      },
+      "implementationDate": "2023-7-25",
+      "title": "Take off"
+    },
+    {
       "artist": "4U",
       "releaseType": "2nd single",
       "url": "https://t7s.jp/release/ingame/12.html",
@@ -3413,6 +3426,58 @@
       },
       "implementationDate": "2015-3-26",
       "title": "Hello...my friend"
+    },
+    {
+      "artist": "The QUEEN of PURPLE",
+      "releaseType": "14th single",
+      "url": "https://t7s.jp/release/ingame/120.html",
+      "lead": "「このメロディーは遠くへ連れて行くんだ」\n絶え間なく鳴り響く胸の奥の声。\n滾るほどの熱を、他に言い表せない。\nこの気持ちを恋って言うんだろ？\n作曲は「山口俊樹」氏、作詞は「Maho Hamaguchi」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/120.png",
+      "credit": {
+        "lyrics": "Maho Hamaguchi",
+        "compose": "山口俊樹"
+      },
+      "implementationDate": "2023-9-26",
+      "title": "I call it \"love\""
+    },
+    {
+      "artist": "The QUEEN of PURPLE",
+      "releaseType": "16th single",
+      "url": "https://t7s.jp/release/ingame/121.html",
+      "lead": "別々の生き方して、行先も違うそれぞれが、\nふいに物語を重ねる一瞬。\n不意に重なる音が、世界を震わせる。\n作曲は「三浦博健」氏、作詞は「Irodori Kaoru」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/121.png",
+      "credit": {
+        "lyrics": "Irodori Kaoru",
+        "compose": "三浦博健"
+      },
+      "implementationDate": "2023-10-8",
+      "title": "One"
+    },
+    {
+      "artist": "The QUEEN of PURPLE",
+      "releaseType": "13th single",
+      "url": "https://t7s.jp/release/ingame/122.html",
+      "lead": "窮屈な固定観念を噛み砕き、\n世の理不尽を蹴散らせ。\n衝動のままに叩きつけた歌が、\n檻の中の獣に訴えかける。\n作曲は「岡ナオキ」氏、作詞は「Rie Tsukagoshi」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/122.png",
+      "credit": {
+        "lyrics": "Rie Tsukagoshi",
+        "compose": "岡ナオキ"
+      },
+      "implementationDate": "2023-9-19",
+      "title": "Brake the cage"
+    },
+    {
+      "artist": "The QUEEN of PURPLE",
+      "releaseType": "15th single",
+      "url": "https://t7s.jp/release/ingame/123.html",
+      "lead": "暗闇の先、「紫」色は澄み渡る「青」に染まっていく。\n夢は醒めずにどこまでも続くから。\n今日を越えて明日へ踏み出す、一瞬の時。\n作曲は「藤田卓也」氏、作詞は「渡辺ゆきち」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/123.png",
+      "credit": {
+        "lyrics": "渡辺ゆきち",
+        "compose": "藤田卓也"
+      },
+      "implementationDate": "2023-10-3",
+      "title": "BLUE MOMENT"
     },
     {
       "artist": "サンボンリボン",

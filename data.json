@@ -3326,6 +3326,7 @@
     },
     {
       "artist": "WITCH NUMBER 4",
+      "releaseType": "5th single",
       "url": "https://t7s.jp/release/ingame/113.html",
       "lead": "WITCH NUMBER 4の新曲は、恋する女の子の歌！\n大切な人とのデートに、ばっちり決めて出発！\nと思ったら、ショーウィンドウに映る姿を見てしょんぼりしたり……\nいろんなことにソワソワ、ドキドキ。\nそれでも一生懸命がんばる女の子たちに、\nWITCH NUMBER 4からキュートなラブソングをお届けっ！\n作詞は「深川琴美」氏、作曲は「福田淳平」氏！",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/113.png",
@@ -3478,6 +3479,19 @@
       },
       "implementationDate": "2023-10-3",
       "title": "BLUE MOMENT"
+    },
+    {
+      "artist": "WITCH NUMBER 4",
+      "releaseType": "6th single",
+      "url": "https://t7s.jp/release/ingame/124.html",
+      "lead": "「あのね……」\nいつのまにか目を離せなくなったキミに、心臓バグり中！\n心弾けてチグハグな言葉投げちゃうの。\nドキドキ甘くてピリピリ痛い、ソーダみたいな恋の味。\n作曲は「戸嶋友祐」氏、作詞は「渡辺ゆきち」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/124.png",
+      "credit": {
+        "lyrics": "渡辺ゆきち",
+        "compose": "戸嶋友祐"
+      },
+      "implementationDate": "2023-11-28",
+      "title": "Tokimeki♡Soda"
     },
     {
       "artist": "サンボンリボン",
@@ -5163,6 +5177,24 @@
       "title": "Daze forU!!",
       "info": "【収録内容】\n\n\n\n■札幌公演\n\n1. ワタシ・愛・forU!!\n2. ROCKな☆アタシ\n3. TREAT OR TREAT?\n4. パフェ・デ・ラブソング\n5. Lucky☆Lucky\n6. Hello...my friend\n7. メロディーフラッグ\n8. 青空Emotion\n9. Purple Raze\n10. Clash!!!\n11. ミツバチ\n12. LOVE AND DEVIL\n13. Crazy Girl's Beat\n14. Daze forU!!\n15. プレゼント・フォー・ユー\n16. Funny☆Clutch\n17. LOVE AND DEVIL\n\n\n■福岡公演\n\n1. ワタシ・愛・forU!!\n2. ROCKな☆アタシ\n3. TREAT OR TREAT?\n4. パフェ・デ・ラブソング\n5. Lucky☆Lucky\n6. プレゼント・フォー・ユー\n7. メロディーフラッグ\n8. 青空Emotion\n9. 花咲キオトメ\n10. B.A.A.B.\n11. -Zero\n12. Funny☆Clutch\n13. LOVE AND DEVIL\n14. Crazy Girl's Beat\n15. Daze forU!!\n16. Hello...my friend\n17. Lucky☆Lucky\n\n\n■東京公演\n\n1. Daze forU!!\n2. ROCKな☆アタシ\n3. Crazy Girl's Beat\n4. パフェ・デ・ラブソング\n5. Lucky☆Lucky\n6. プレゼント・フォー・ユー\n7. メロディーフラッグ\n8. 青空Emotion\n9. コドーモ・デ・ヒーロ\n10. ハネ☆る!!\n11. 星屑☆シーカー\n12. Funny☆Clutch\n13. LOVE AND DEVIL\n14. TREAT OR TREAT?\n15. ワタシ・愛・forU!!\n16. Hello...my friend\n17. メロディーフラッグ\n18. Funny☆Clutch\n19. Daze forU!!\n\n\n■山梨公演\n\n1. ワタシ・愛・forU!!\n2. TREAT OR TREAT?\n3. Lucky☆Lucky\n4. メロディーフラッグ\n5. 青空Emotion\n6. パフェ・デ・ラブソング\n7. ROCKな☆アタシ\n8. コドーモ・デ・ヒーロ\n9. 花咲キオトメ\n10. ミツバチ\n11. 夏のビードロ☆シンフォニー\n12. Hello...my friend Acoustic Ver.\n13. プレゼント・フォー・ユー Acoustic Ver.\n14. Funny☆Clutch\n15. LOVE AND DEVIL\n16. Crazy Girl's Beat\n17. Daze forU!!\n18. Lucky☆Lucky 盆踊りver.\n19. メロディーフラッグ\n20. TREAT OR TREAT?\n21. LOVE AND DEVIL\n22. Daze forU!!\n\n【価格】\n\n完全生産限定版Blu-ray\nライブ本編（札幌、福岡、東京公演収録）＋特典ディスク（山梨公演収録）＋フォトブックレット＋特典グッズ（サングラス / バンダナ / レプリカチケット）＋ライブ音源CD\nDN-152283 / ￥27,500(税込)",
       "jacketSrc": "https://t7s.jp/image/page/release/dvd/cover/12.png"
+    },
+    {
+      "artist": "Tokyo 7th シスターズ",
+      "releaseType": "6+7+8th Anniversary Live",
+      "url": "https://t7s.jp/release/bd/13.html",
+      "releaseDate": "2023-10-10",
+      "title": "Along the way",
+      "info": "【収録内容】\n\n\n\n■Day1\n\n1. 僕らは青空になる\n2. STAY☆GOLD\n3. FUNBARE☆RUNNER\n4. Cocoro Magical\n5. Starlight☆Asterism\n6. Reach for the Meteor\n7. HOLY QUEEN\n8. マスカレード・ナイト\n9. SCARLET\n10. SHAKE!!～フリフリしちゃえ～\n11. ハネ☆る!!\n12. 陽だまりの世界地図\n13. Fall in Love\n14. さよならレイニーレイディ\n15. お願い☆My Boy\n16. Winning Day\n17. Synerdistic White\n18. AMATERRAS\n19. Don! Kan! Boy!\n20. シトラスは片想い\n21. Clover×Clover\n22. セカイのヒミツ\n23. 恋セヨ乙女\n24. Striking Diamond\n25. 悠久の輪廻\n26. スノードロップ\n27. 花咲キオトメ\n28. 秋の空とこころ　コスモス\n29. マイ・グラデイション\n30. コドーモ・デ・ヒーロ\n31. TRIGGER\n32. Clash!!!\n33. Majesty\n34. KID BLUE ～裸の王様～\n35. I AM\n36. メロディーフラッグ\n37. プレゼント・フォー・ユー\n38. Crazy Girl's Beat\n39. Lucky☆Lucky\n40. Daze for U!!\n41. Across The Rainbow\n42. Make our Sound\n43. Along the way\n\n\n■Day2\n1. MELODY IN THE POCKET\n2. 夏のビードロ☆シンフォニー\n3. FUNBARE☆RUNNER\n4. KILL☆ER☆TUNE☆R\n5. New Age\n6. WONDEЯ GIRL\n7. HOLY QUEEN\n8. マスカレード・ナイト\n9. SHOW TIME\n10. タンポポ\n11. SUN SUN SUN\n12. ひまわりのストーリー\n13. ミツバチ\n14. SHAKE!!～フリフリしちゃえ～\n15. ハネ☆る!!\n16. 陽だまりの世界地図\n17. Fall in Love\n18. プレシャス・セトラ\n19. AOZORA TRAIN\n20. B.A.A.B\n21. Raise One's Voice\n22. -Zero\n23. PRIZM♪RIZM\n24. ラバ×ラバ\n25. スノードロップ\n26. 花咲キオトメ\n27. 秋の空とこころ　コスモス\n28. マイ・グラデイション\n29. Striking Diamond\n30. コドーモ・デ・ヒーロ\n31. ワタシ・愛・forU!!\n32. TREAT OR TREAT?\n33. ROCKな☆アタシ\n34. LOVE AND DEVIL\n35. Funny☆Clutch\n36. THUNDERBOLT\n37. Purple Raze\n38. R.B.E.\n39. Wake Up Heroine\n40. Fire and Rose\n41. DAYS\n42. Across The Rainbow\n43. Make our sound\n44. Along the Way\n\n\nDay3\n1. H-A-J-I-M-A-R-I-U-T-A-!!\n2. スタートライン\n3. Departures -あしたの歌-\n4. Snow in \"I love you\"\n5. SEVENTH HAVEN\n6. PUNCH'D RANKER\n7. FALLING DOWN\n8. Sparkle☆Time\n9. shooting sky\n10. Be Your Light\n11. You & I =\n12. 陽だまりの世界地図\n13. Fall in Love\n14. YELLOW\n15. ひよこのうた\n16. ミツバチ\n17. Re:SONANCE\n18. AMATERRAS\n19. アイノシズク\n20. コドーモ・デ・ヒーロ\n21. You Can't Win\n22. CHECH'MATE\n23. Girls Talk!!\n24. さよならレイニーレイディ\n25. プレシャス・セトラ\n26. 星屑☆シーカー\n27. SAKURA\n28. Wanna Be♡\n29. Behind Moon\n30. 恋をして\n31. たいくつりぼん\n32. 14歳のサマーソーダ\n33. Daze forU!!\n34. TREAT OR TREAT?\n35. Crazy Girl's Beat\n36. Lucky☆Lucky\n37. LOVE AND DEVIL\n38. HEAVEN'S RAVE\n39. NATSUKAGE -夏陰-\n40. リボン\n41. Across the Rainbow\n42. Along the way\n43. Star☆Glitter\n\n【価格】\n\n完全生産限定版Blu-ray\nライブ本編（DAY1、DAY2、DAY3公演収録）＋特典ディスク(バックステージ映像 ※配信チケット特典映像と同様のものになります。 / ライブステージ設営タイムラプス(12月18日公演) / 楽曲振り付け映像(Along the way))\n＋フォトブックレット＋ライブ音源＋CD特別仕様オリジナルTシャツ(フリーサイズ)\nDN-153648 / ￥38,500(税込)\n通常版Blu-ray\nライブ本編（DAY1、DAY2、DAY3公演収録）\nDN-153649 / ￥19,800",
+      "jacketSrc": "https://t7s.jp/image/page/release/dvd/cover/13.png"
+    },
+    {
+      "artist": "KARAKURI",
+      "releaseType": "1st Live",
+      "url": "https://t7s.jp/release/bd/14.html",
+      "releaseDate": "2023-10-31",
+      "title": "Re:SONANCE",
+      "info": "【収録内容】\n\n\n1. Re:SONANCE\n2. Winning Day\n3. Binocular Vision\n4. Zenith\n5. B.A.A.B.\n6. Mirai Konzert\n7. SAKURA\n8. Bluenote Theory\n9. -Zero\n10.Synergistic White\n11.Raise One's Voice\n12.AMATERRAS\n13.Winning Day Acoustic Ver.\n14.アイノシズク\n\n【価格】\n完全生産限定版Blu-ray\nライブ本編＋アフタートーク配信映像\n＋フォトブックレット＋ライブ音源CD＋特典グッズ（マルチケーブル / ガジェットポーチ）\nDN-153648 / ￥16,500(税込)",
+      "jacketSrc": "https://t7s.jp/image/page/release/dvd/cover/14.png"
     },
     {
       "releaseType": "t7s 1st Anniversary Live 15'→34'",

@@ -2775,7 +2775,7 @@
       "logoImgSrc": "https://t7s.jp/image/page/character/unit/unit_23_logo.png",
       "info": "2053年トップに君臨するスタジオ「LuSyDolls」が満を持して送り出したユニット。同スタジオが掲げる「可愛くなければ意味がない」を体現するカレンとフレッシュな新人ミオリで新世代の「カワイイ」を目指して結成。圧倒的カリスマとしてポップにもキュートにも変幻自在なカレン、候補生の階段を駆け上ってきた優等生のミオリ。これまでStella MiNEを追いかけてきたLuSyDollsがトップとしてTokyo-7thを席巻できるのか、二人に注目が集まっている。",
       "name": "RiPoP",
-      "group": "2053 ライバル"
+      "group": "RiPoP."
     }
   ],
   "ingames": [
@@ -3181,6 +3181,32 @@
       },
       "implementationDate": "2022-9-20",
       "title": "Make our sound"
+    },
+    {
+      "artist": "RiPoP",
+      "releaseType": "3rd single",
+      "url": "https://t7s.jp/release/ingame/1020.html",
+      "lead": "甘すぎるぐらいが癖になるの！\n好きなものは好きなだけ、\nひとつ残らずのせちゃえ！\n自分だけのキュート・アラモード！\n作曲は「中山聡」氏「足立優」氏、作詞は「金子麻友美」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1020.png",
+      "credit": {
+        "lyrics": "金子麻友美",
+        "compose": "中山聡・足立優"
+      },
+      "implementationDate": "2023-12-12",
+      "title": "キュート・アラモード"
+    },
+    {
+      "artist": "Roots.",
+      "releaseType": "6th single",
+      "url": "https://t7s.jp/release/ingame/1025.html",
+      "lead": "マンゾクできないんでしょ？\n甘い毒で致死量まで満たされる、\nカミサマも解明できない愛。\n\n作詞は「Uyu(ACRYLICSTAB)」氏、作曲は「阿部隆大(アベリューダイ)」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1025.png",
+      "credit": {
+        "lyrics": "Uyu(ACRYLICSTAB)",
+        "compose": "阿部隆大(アベリューダイ)"
+      },
+      "implementationDate": "2023-12-26",
+      "title": "XOXO PAiN"
     },
     {
       "artist": "4U",
@@ -5195,6 +5221,15 @@
       "title": "Re:SONANCE",
       "info": "【収録内容】\n\n\n1. Re:SONANCE\n2. Winning Day\n3. Binocular Vision\n4. Zenith\n5. B.A.A.B.\n6. Mirai Konzert\n7. SAKURA\n8. Bluenote Theory\n9. -Zero\n10.Synergistic White\n11.Raise One's Voice\n12.AMATERRAS\n13.Winning Day Acoustic Ver.\n14.アイノシズク\n\n【価格】\n完全生産限定版Blu-ray\nライブ本編＋アフタートーク配信映像\n＋フォトブックレット＋ライブ音源CD＋特典グッズ（マルチケーブル / ガジェットポーチ）\nDN-153648 / ￥16,500(税込)",
       "jacketSrc": "https://t7s.jp/image/page/release/dvd/cover/14.png"
+    },
+    {
+      "artist": "Le☆S☆Ca",
+      "releaseType": "1st Live",
+      "url": "https://t7s.jp/release/bd/16.html",
+      "releaseDate": "2023-12-26",
+      "title": "グローイング",
+      "info": "【収録内容】Day1\n\n\n■Day1\n1. YELLOW\n2. タンポポ\n3. SUN SUN SUN\n4. Summer Squash\n5. ひよこのうた\n6. トワイライト\n7. Behind Moon\n8. 恋をして\n9. Room Light\n10.ナノハナパレット\n11.WITH THE BEST SMILE\n12.ひまわりのストーリー\n13.ミツバチ\n14.cross road\n15.Make our sound (Le☆S☆Ca Ver.)\n16.SUN SUN SUN (Acoustic Ver.)\n\n■Day2\n1. YELLOW\n2. タンポポ\n3. SUN SUN SUN\n4. Summer Squash\n5. ひよこのうた\n6. トワイライト\n7. Behind Moon\n8. 恋をして\n9. Room Light\n10.ナノハナパレット\n11.WITH THE BEST SMILE\n12.ひまわりのストーリー\n13.ミツバチ\n14.cross road\n15.Make our sound (Le☆S☆Ca Ver.)\n16.YELLOW (Acoustic Ver.)\n\n【価格】\n完全生産限定版Blu-ray\nライブ本編＋パンフレット撮影メイキング映像\n＋ステージ設営タイムラプス映像＋フォトブックレット＋ライブ音源CD＋特典グッズ（ハーバリウム）\nDN-153727 / ￥16,500(税込)",
+      "jacketSrc": "https://t7s.jp/image/page/release/dvd/cover/16.png"
     },
     {
       "releaseType": "t7s 1st Anniversary Live 15'→34'",

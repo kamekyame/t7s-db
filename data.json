@@ -3170,6 +3170,19 @@
       "title": "O.YA.SU.MI Good night"
     },
     {
+      "artist": "RiPoP",
+      "releaseType": "4th single",
+      "url": "https://t7s.jp/release/ingame/1019.html",
+      "lead": "みんながみんな生まれつきのプリンセス！\nまずは自分を愛せなきゃ！\nとびきりの最強スマイルで夢中にさせちゃえ！\n\"わがまま\"したい、なんだもんっ！！\n\n作詞は「新谷風太」氏、作曲は「戸嶋友祐」氏！",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1019.png",
+      "credit": {
+        "lyrics": "新谷風太",
+        "compose": "戸嶋友祐"
+      },
+      "implementationDate": "2023-12-30",
+      "title": "わがままSwing Cutest!"
+    },
+    {
       "artist": "Tokyo 7th シスターズ",
       "releaseType": "1st single",
       "url": "https://t7s.jp/release/ingame/102.html",
@@ -3194,6 +3207,58 @@
       },
       "implementationDate": "2023-12-12",
       "title": "キュート・アラモード"
+    },
+    {
+      "artist": "Asterline",
+      "releaseType": "8th single",
+      "url": "https://t7s.jp/release/ingame/1021.html",
+      "lead": "迷って、答えを出せなくても。\n小さな歩みでも、\nココロに埋まった泥だらけの　”ほんとう”は\nいつか芽吹いて、\n胸いっぱいに枯れない花になる。\n\n作詞は「hAck－Ø.」氏、作曲は「KOUGA」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1021.png",
+      "credit": {
+        "lyrics": "hAck－Ø.",
+        "compose": "KOUGA"
+      },
+      "implementationDate": "2024-1-5",
+      "title": "TSUBOMI et cetera"
+    },
+    {
+      "artist": "Asterline",
+      "releaseType": "7th single",
+      "url": "https://t7s.jp/release/ingame/1022.html",
+      "lead": "ココロが動くたび書き残した、\nキミのための物語。\n飾らない言葉だから愛おしい。\nどんな日も大切な軌跡だから。\n\n作詞は「みきちゅ」氏、作曲は「Yoma」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1022.png",
+      "credit": {
+        "lyrics": "みきちゅ",
+        "compose": "Yoma"
+      },
+      "implementationDate": "2023-12-28",
+      "title": "ミライノート"
+    },
+    {
+      "artist": "Stella MiNE",
+      "releaseType": "6th single",
+      "url": "https://t7s.jp/release/ingame/1023.html",
+      "lead": "「ねぇ、君も来るよね？」\n銀河よりも未知数な、未来の先。\n共に駆け出す君がいれば、どこまでもいけるはず。\n\n作詞は「都城ゆみ」氏、作曲は「中山聡」氏と「足立優」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1023.png",
+      "credit": {
+        "lyrics": "都城ゆみ",
+        "compose": "中山聡・足立優"
+      },
+      "implementationDate": "2024-1-1",
+      "title": "Startrail"
+    },
+    {
+      "artist": "Roots.",
+      "releaseType": "7th single",
+      "url": "https://t7s.jp/release/ingame/1024.html",
+      "lead": "妖艶な旋律、可憐なノイズ。\n音以外、どれも要らないの。\n身を任せていたいの、響き渡る愛の鼓動に。\n\n作詞・作曲は「原田雄一」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1024.png",
+      "credit": {
+        "lyrics": "原田雄一",
+        "compose": "原田雄一"
+      },
+      "implementationDate": "2024-1-3",
+      "title": "Mellow Melodies"
     },
     {
       "artist": "Roots.",

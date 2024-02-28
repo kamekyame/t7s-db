@@ -2112,7 +2112,7 @@
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/72_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/72_idol_l_pc.png",
-      "group": "2053 ライバル"
+      "group": "ライバル"
     },
     {
       "url": "https://t7s.jp/character/chara/73.html",
@@ -2143,7 +2143,39 @@
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/73_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/73_idol_l_pc.png",
-      "group": "2053 ライバル"
+      "group": "ライバル"
+    },
+    {
+      "url": "https://t7s.jp/character/chara/74.html",
+      "name": "アリナ・ライスト",
+      "info": "カルト的な人気を博すアイドルユニット「OFF White」のカリスマ。小さなスタジオを舞台に熱狂的なファンを生み出している。たぐいまれな美貌もさることながら実力も群を抜いておりファンからは「天使」と呼ばれ崇拝されている。",
+      "age": 18,
+      "birthday": {
+        "month": 11,
+        "day": 24
+      },
+      "bloodType": "B",
+      "height": 168,
+      "weight": 49,
+      "threeSize": {
+        "bust": 79,
+        "waist": 55,
+        "hip": 85
+      },
+      "cv": "佐々木 李子",
+      "nickname": [
+        "アリナ",
+        "アリナさん"
+      ],
+      "skill": "表情管理",
+      "favorite": "友達(ユニットメンバー)、ホットココア",
+      "affiliation": "OFF White",
+      "units": [
+        "OFF White"
+      ],
+      "normalImgSrc": "https://t7s.jp/image/page/character/modal/74_normal_l_pc.png",
+      "idolImgSrc": "https://t7s.jp/image/page/character/modal/74_idol_l_pc.png",
+      "group": "ライバル"
     }
   ],
   "units": [
@@ -2775,7 +2807,22 @@
       "logoImgSrc": "https://t7s.jp/image/page/character/unit/unit_23_logo.png",
       "info": "2053年トップに君臨するスタジオ「LuSyDolls」が満を持して送り出したユニット。同スタジオが掲げる「可愛くなければ意味がない」を体現するカレンとフレッシュな新人ミオリで新世代の「カワイイ」を目指して結成。圧倒的カリスマとしてポップにもキュートにも変幻自在なカレン、候補生の階段を駆け上ってきた優等生のミオリ。これまでStella MiNEを追いかけてきたLuSyDollsがトップとしてTokyo-7thを席巻できるのか、二人に注目が集まっている。",
       "name": "RiPoP",
-      "group": "RiPoP."
+      "group": "2053ライバル"
+    },
+    {
+      "url": "https://t7s.jp/character/unit/24.html",
+      "members": [
+        {
+          "stageName": "アリナ・ライスト",
+          "name": "アリナ・ライスト",
+          "faceImgSrc": "https://t7s.jp/image/page/character/face/face_24_01.png"
+        }
+      ],
+      "visualImgSrc": "https://t7s.jp/image/page/character/unit/unit_24_img.png",
+      "logoImgSrc": "https://t7s.jp/image/page/character/unit/unit_24_logo.png",
+      "info": "地下ライブハウスから生まれた「天使」と話題のアイドルユニット。純白をテーマにした清純で柔らかな喋り口や聖女のような立ち振る舞いでカルト的な人気を博しています。ライブを中心に活動しており、メディアでの露出は限定的。ボーカルのアリナはたぐいまれな美貌の持ち主とも言われていますが、実際に目にしないとその魅力は伝わらないとも。彼女たちの純白の輝きに目を凝らし、あなたも「信者」と呼ばれるほどの熱狂的なファンに生まれ変わってみませんか？",
+      "name": "OFF White",
+      "group": "2053ライバル"
     }
   ],
   "ingames": [
@@ -3147,7 +3194,7 @@
       "artist": "Roots.",
       "releaseType": "5th single",
       "url": "https://t7s.jp/release/ingame/1017.html",
-      "lead": "――褪せて燻んだこの色も綺麗でしょ？\nただ美しい花なんて、腐るほどある。\n何度踏まれて傷ついても、\n思うままに咲き誇るその様は、\nきっとあなたに勇気をくれる。\n作詞・作曲は「原田雄一」氏。",
+      "lead": "――褪せて燻んだこの色も綺麗でしょ？\nただ美しい花なんて、腐るほどある。\n何度踏まれて傷ついても、\n思うままに咲き誇るその様は、\nきっとあなたに勇気をくれる。\n\n作詞・作曲は「原田雄一」氏。",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1017.png",
       "credit": {
         "lyrics": "原田雄一",
@@ -3249,7 +3296,7 @@
     },
     {
       "artist": "Roots.",
-      "releaseType": "7th single",
+      "releaseType": "8th single",
       "url": "https://t7s.jp/release/ingame/1024.html",
       "lead": "妖艶な旋律、可憐なノイズ。\n音以外、どれも要らないの。\n身を任せていたいの、響き渡る愛の鼓動に。\n\n作詞・作曲は「原田雄一」氏。",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1024.png",
@@ -3272,6 +3319,19 @@
       },
       "implementationDate": "2023-12-26",
       "title": "XOXO PAiN"
+    },
+    {
+      "artist": "OFF White",
+      "releaseType": "1st single",
+      "url": "https://t7s.jp/release/ingame/1026.html",
+      "lead": "地下ライブハウスから生まれたアイドルユニット、\n「OFF White」がスタイリッシュに歌い上げるのは「Whiteout」。\n吹き荒れる吹雪に傷つき迷っても、\n閉ざされた世界から踏み出した、最初の一歩――――\n自らの心と向かい合う決意を、凛々しく歌っている。\n作詞は「裕野」氏、作曲は「浅倉大介」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1026.png",
+      "credit": {
+        "lyrics": "裕野",
+        "compose": "浅倉大介"
+      },
+      "implementationDate": "2024-2-27",
+      "title": "Whiteout"
     },
     {
       "artist": "4U",
@@ -3484,7 +3544,7 @@
       "artist": "Le☆S☆Ca",
       "releaseType": "2nd Mini Album",
       "url": "https://t7s.jp/release/ingame/118.html",
-      "lead": "やってみたいことエトセトラ！\n自分を信じて、胸の高鳴りに身を任せて。\nやりたいことはぜんぶやっちゃおう！\nその先にはきっと、とっておきの未来が待っているから！\n勇気を出して一歩を踏み出す、あなたに贈るエール。\n作曲は「倉内達矢」氏、編曲は「めんま」氏、作詞は「宮腰侑子」氏！",
+      "lead": "やってみたいことエトセトラ！\n自分を信じて、胸の高鳴りに身を任せて。\nやりたいことはぜんぶやっちゃおう！\nその先にはきっと、とっておきの未来が待っているから！\n勇気を出して一歩を踏み出す、あなたに贈るエール。\n作曲は「倉内達也」氏、編曲は「めんま」氏、作詞は「宮腰侑子」氏！",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/118.png",
       "credit": {
         "lyrics": "宮腰侑子",
@@ -3497,7 +3557,7 @@
       "artist": "The QUEEN of PURPLE",
       "releaseType": "12th single",
       "url": "https://t7s.jp/release/ingame/119.html",
-      "lead": "隠した本音を曝け出してぶつかればわかる。\n“自分らしさ”ってやつがどんな形なのか\n肩書もプライドも脱ぎ捨てて、裸足で助走をつければ\nその翼で、どこへでも飛んで行ける。\n作曲は「KUMAROBO」氏、作詞は「裕野」氏。",
+      "lead": "やってみたいことエトセトラ！\n自分を信じて、胸の高鳴りに身を任せて。\nやりたいことはぜんぶやっちゃおう！\nその先にはきっと、とっておきの未来が待っているから！\n勇気を出して一歩を踏み出す、あなたに贈るエール。\n作曲は「倉内達也」氏、編曲は「めんま」氏、作詞は「宮腰侑子」氏！",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/119.png",
       "credit": {
         "lyrics": "裕野",
@@ -5048,7 +5108,7 @@
     },
     {
       "artist": "Le☆S☆Ca",
-      "releaseType": "1st Mini Album",
+      "releaseType": "1st MINI ALBUM",
       "url": "https://t7s.jp/release/cd/38.html",
       "releaseDate": "2020-3-18",
       "title": "Le☆S☆Ca",
@@ -5095,7 +5155,7 @@
       "url": "https://t7s.jp/release/cd/43.html",
       "releaseDate": "2021-3-17",
       "title": "IT'S A PERFECT BLUE",
-      "info": "【収録曲】\n\n[CD：DISC 1]　Summer Sky　(※全形態共通)\n01. Overture〜WITH A TINY BLUE〜\n02. MELODY IN THE POCKET／777☆SISTERS\n03. 夏のビードロ☆シンフォニー／777☆SISTERS\n04. ラブリー♡オンリー／SU♡SUTA(きゅうとな)\n05. シトラスは片想い／Ci+LUS\n06. アイコトバ／Ci+LUS\n07. TRICK／Ci+LUS\n08. 空色スキップ／Ci+LUS\n09. SHOW TIME／CASQUETTE’S\n10. マスカレード・ナイト／CASQUETTE’S\n11. SCARLET／CASQUETTE’S\n12. HEAVEN'S RAVE／AXiS\n13. COCYTUS／AXiS\n14. NATSUKAGE-夏陰-／777☆SISTERS\n\n[CD：DISC 2]　Rainbow Sky　(※全形態共通)\n01.   Shooting Sky／セブンスシスターズ\n02. 光／七咲ニコル\n03. 花咲キオトメ／七花少女\n04. スノードロップ／七花少女\n05. マイ・グラデイション／七花少女\n06. Fall in Love／SEASON OF LOVE\n07. コドーモ・デ・ヒーロ／コドモ連合\n08. LOVE AND DEVIL／4U\n09. AMATERRAS／KARAKURI\n10. アイノシズク／KARAKURI 2039\n11. Departures -あしたの歌-／777☆SISTERS\n12. リボン／777☆SISTERS\n13. IT'S A PERFECT BLUE, THANK YOU\n14. Across the Rainbow／777☆SISTERS\n\n[CD：DISC 3]　Off Vocal Tracks　(※プレミアムボックス、初回限定盤のみ)\n01. Shooting Sky -OFF VOCAL-／セブンスシスターズ\n02. SUN SUN SUN -OFF VOCAL-／Le☆S☆Ca\n03. AMATERRAS -OFF VOCAL-／KARAKURI\n04. 光 -OFF VOCAL-／七咲ニコル\n\n[CD：DISC 4]　Live Digest　(※プレミアムボックスのみ)\n4U 1st Live!!!「The Pres“id”ent 4U」より\n01. メロディーフラッグ／4U\n02. TREAT OR TREAT?／4U\n03. SAKURA〜WNo4 Cover〜／4U\n04. プレゼント・フォー・ユー／4U\nThe QUEEN of PURPLE 1st Live “I'M THE QUEEN, AND YOU？” より\n05. Majesty／The QUEEN of PURPLE\n06. THUNDERBOLT／The QUEEN of PURPLE\n07. I AM／The QUEEN of PURPLE\n08. DAYS／The QUEEN of PURPLE\nt7s 5th Anniversary Live -SEASON OF LOVE- in Makuhari Messe より\n09. FUNBARE☆RUNNER／777☆SISTERS\n10. ミツバチ／Le☆S☆Ca\n11. 花咲キオトメ／七花少女\n12. AMATERRAS／KARAKURI\n13. CHECK’MATE／NI+CORA\n14. ハルカゼ〜You were here〜／777☆SISTERS\n\n[DVD]　Trailer Movies　(※プレミアムボックス、初回限定盤のみ)\n01. シトラスは片想い／Ci+LUS\n02. AMATERRAS／KARAKURI\n03. SHOW TIME／CASQUETTE'S\n04. MELODY IN THE POCKET〜ラブリー♡オンリー／777☆SISTERS〜\nSU♡SUTA(きゅうとな)\n05. 花咲キオトメ／七花少女\n06. TRICK／Ci+LUS\n07. COCYTUS／AXiS\n08. Majesty〜THUNDERBOLT／The QUEEN of PURPLE\n09. ミツバチ／Le☆S☆Ca\n10. NATSUKAGE-夏陰-／777☆SISTERS\n11. 光／七咲ニコル\n12. マイ・グラデイション〜SCARLET／七花少女〜CASQUETTE'S\n13. Fall in Love〜コドーモ・デ・ヒーロ／SEASON OF LOVE〜コドモ連合\n14. LOVE AND DEVIL／4U\n15. アイノシズク／KARAKURI 2039\n16. SUN SUN SUN／Le☆S☆Ca\n17. Across the Rainbow／777☆SISTERS\n18. リボン／777☆SISTERS\n\n\n【価格】\n\n[プレミアムボックス]\n4CD(DISC1+DISC2+DISC3+DISC4)\nDVD+Tシャツ+缶バッジ+インゲームジャケットカード(14枚28種)+特製デジスタック仕様\nVIZL-1871 / ￥10,000円+税\n\n[初回限定盤]\n3CD(DISC1+DISC2+DISC3)\nDVD+インゲームジャケットカード(14枚28種)\nVIZL-1872 / ￥4,800+税\n\n[通常盤]\n2CD(DISC1+DISC2)\nVICL-65484～65485 / ￥3,600+税",
+      "info": "【収録曲】\n\n[CD：DISC 1]　Summer Sky　(※全形態共通)\n01. Overture〜WITH A TINY BLUE〜\n02. MELODY IN THE POCKET／777☆SISTERS\n03. 夏のビードロ☆シンフォニー／777☆SISTERS\n04. ラブリー♡オンリー／SU♡SUTA(きゅうとな)\n05. シトラスは片想い／Ci+LUS\n06. アイコトバ／Ci+LUS\n07. TRICK／Ci+LUS\n08. 空色スキップ／Ci+LUS\n09. SHOW TIME／CASQUETTE’S\n10. マスカレード・ナイト／CASQUETTE’S\n11. SCARLET／CASQUETTE’S\n12. HEAVEN'S RAVE／AXiS\n13. COCYTUS／AXiS\n14. NATSUKAGE-夏陰-／777☆SISTERS\n\n[CD：DISC 2]　Rainbow Sky　(※全形態共通)\n01.   Shooting Sky／セブンスシスターズ\n02. 光／七咲ニコル\n03. 花咲キオトメ／七花少女\n04. スノードロップ／七花少女\n05. マイ・グラデイション／七花少女\n06. Fall in Love／SEASON OF LOVE\n07. コドーモ・デ・ヒーロ／コドモ連合\n08. LOVE AND DEVIL／4U\n09. AMATERRAS／KARAKURI\n10. アイノシズク／KARAKURI 2039\n11. Departures -あしたの歌-／777☆SISTERS\n12. リボン／777☆SISTERS\n13. IT'S A PERFECT BLUE, THANK YOU\n14. Across the Rainbow／777☆SISTERS\n\n[CD：DISC 3]　Off Vocal Tracks　(※プレミアムボックス、初回限定盤のみ)\n01. Shooting Sky -OFF VOCAL-／セブンスシスターズ\n02. SUN SUN SUN -OFF VOCAL-／Le☆S☆Ca\n03. AMATERRAS -OFF VOCAL-／KARAKURI\n04. 光 -OFF VOCAL-／七咲ニコル\n\n[CD：DISC 4]　Live Digest　(※プレミアムボックス、初回限定盤のみ)\n4U 1st Live!!!「The Pres“id”ent 4U」より\n01. メロディーフラッグ／4U\n02. TREAT OR TREAT?／4U\n03. SAKURA〜WNo4 Cover〜／4U\n04. プレゼント・フォー・ユー／4U\nThe QUEEN of PURPLE 1st Live “I'M THE QUEEN, AND YOU？” より\n05. Majesty／The QUEEN of PURPLE\n06. THUNDERBOLT／The QUEEN of PURPLE\n07. I AM／The QUEEN of PURPLE\n08. DAYS／The QUEEN of PURPLE\nt7s 5th Anniversary Live -SEASON OF LOVE- in Makuhari Messe より\n09. FUNBARE☆RUNNER／777☆SISTERS\n10. ミツバチ／Le☆S☆Ca\n11. 花咲キオトメ／七花少女\n12. AMATERRAS／KARAKURI\n13. CHECK’MATE／NI+CORA\n14. ハルカゼ〜You were here〜／777☆SISTERS\n\n[DVD]　Trailer Movies　(※プレミアムボックス、初回限定盤のみ)\n01. シトラスは片想い／Ci+LUS\n02. AMATERRAS／KARAKURI\n03. SHOW TIME／CASQUETTE'S\n04. MELODY IN THE POCKET〜ラブリー♡オンリー／777☆SISTERS〜\nSU♡SUTA(きゅうとな)\n05. 花咲キオトメ／七花少女\n06. TRICK／Ci+LUS\n07. COCYTUS／AXiS\n08. Majesty〜THUNDERBOLT／The QUEEN of PURPLE\n09. ミツバチ／Le☆S☆Ca\n10. NATSUKAGE-夏陰-／777☆SISTERS\n11. 光／七咲ニコル\n12. マイ・グラデイション〜SCARLET／七花少女〜CASQUETTE'S\n13. Fall in Love〜コドーモ・デ・ヒーロ／SEASON OF LOVE〜コドモ連合\n14. LOVE AND DEVIL／4U\n15. アイノシズク／KARAKURI 2039\n16. SUN SUN SUN／Le☆S☆Ca\n17. Across the Rainbow／777☆SISTERS\n18. リボン／777☆SISTERS\n\n\n【価格】\n\n[プレミアムボックス]\n4CD(DISC1+DISC2+DISC3+DISC4)\nDVD+Tシャツ+缶バッジ+インゲームジャケットカード(14枚28種)+特製デジスタック仕様\nVIZL-1871 / ￥10,000円+税\n\n[初回限定盤]\n3CD(DISC1+DISC2+DISC3)\nDVD+インゲームジャケットカード(14枚28種)\nVIZL-1872 / ￥4,800+税\n\n[通常盤]\n2CD(DISC1+DISC2)\nVICL-65484～65485 / ￥3,600+税",
       "jacketSrc": "https://t7s.jp/image/page/release/cd/cover/43.png"
     },
     {
@@ -5188,7 +5248,7 @@
     },
     {
       "artist": "4U",
-      "releaseType": "New single",
+      "releaseType": "S New single",
       "url": "https://t7s.jp/release/cd/54.html",
       "releaseDate": "2022-7-19",
       "title": "Daze forU!! / Funny☆Clutch",

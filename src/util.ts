@@ -1,10 +1,6 @@
-import {
-  DOMParser,
-  Element,
-  HTMLDocument,
-} from "https://deno.land/x/deno_dom@v0.1.36-alpha/deno-dom-wasm.ts";
-import { green, red } from "https://deno.land/std@0.181.0/fmt/colors.ts";
-import { dirname, resolve } from "https://deno.land/std@0.181.0/path/mod.ts";
+import { DOMParser, Element, HTMLDocument } from "@b-fuze/deno-dom";
+import { green, red } from "@std/fmt/colors";
+import { dirname, resolve } from "@std/path";
 
 const useCache = Deno.args.includes("--update") === false;
 

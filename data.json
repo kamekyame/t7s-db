@@ -3658,6 +3658,45 @@
       "title": "Clover×Clover"
     },
     {
+      "artist": "コドモ連合",
+      "releaseType": "2nd single",
+      "url": "https://t7s.jp/release/ingame/131.html",
+      "lead": "「コドモ連合」待望の2nd single！ 小さな４人がキュートなシェフになって様々な料理に初挑戦！\nみんなの笑顔が見たいと思う気持ちを胸に\nDOGI MAGIなクッキングタイムの始まりです♪ 作詞は「小西裕子」氏、作曲は「TOSH-OK」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/131.png",
+      "credit": {
+        "lyrics": "小西裕子",
+        "compose": "TOSH-OK"
+      },
+      "implementationDate": "2024-5-21",
+      "title": "ドギマギクッキング"
+    },
+    {
+      "artist": "NI+CORA",
+      "releaseType": "5th single",
+      "url": "https://t7s.jp/release/ingame/132.html",
+      "lead": "恋バナの続きは？　カフェの予約は？ シャンプー変えた？　メッセージ返さなきゃ！\nやりたいことも気になることもたっくさん！\n自由な時間をちょーだいよ　もっと！\n\n「NI+CORA」が歌う、女の子たちの自由奔放な日常を描いた一曲！\n作詞は「セリザワケイコ」氏、作曲は「藤田卓也」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/132.png",
+      "credit": {
+        "lyrics": "セリザワケイコ",
+        "compose": "藤田卓也"
+      },
+      "implementationDate": "2024-6-4",
+      "title": "Give me time!"
+    },
+    {
+      "artist": "NI+CORA",
+      "releaseType": "6th single",
+      "url": "https://t7s.jp/release/ingame/133.html",
+      "lead": "「NI+CORA」が切なく歌い上げるラブソング。\nあふれた砂時計に、秒針を探すような恋だって知っていた。\n綺麗な思い出にサヨナラできたならよかったけど。\n時はまだ止まったままで……\n\n作詞は「Maho Hamaguchi」氏、作曲は「鈴木大士」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/133.png",
+      "credit": {
+        "lyrics": "Maho Hamaguchi",
+        "compose": "鈴木大士"
+      },
+      "implementationDate": "2024-6-4",
+      "title": "Crescendo"
+    },
+    {
       "artist": "NI+CORA",
       "releaseType": "2nd single",
       "url": "https://t7s.jp/release/ingame/14.html",

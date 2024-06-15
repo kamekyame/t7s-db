@@ -13,6 +13,7 @@ const dvds_ = await getDvds();
 
 function parseArtistAndReleaseType(artistAndReleaseType: string) {
   artistAndReleaseType = artistAndReleaseType.replaceAll("’", "'");
+  artistAndReleaseType = artistAndReleaseType.replaceAll("＋", "+");
 
   let artist;
   if (artistAndReleaseType.includes("Tokyo 7th シスターズ")) {

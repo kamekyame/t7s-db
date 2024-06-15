@@ -1,5 +1,9 @@
 {
   "tasks": {
     "create": "deno run -A src/main.ts"
+  },
+  "imports": {
+    "@std": "jsr:@std",
+    "@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom@^0.1.47"
   }
 }

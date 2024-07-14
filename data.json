@@ -3296,7 +3296,7 @@
     },
     {
       "artist": "Roots.",
-      "releaseType": "8th single",
+      "releaseType": "7th single",
       "url": "https://t7s.jp/release/ingame/1024.html",
       "lead": "妖艶な旋律、可憐なノイズ。\n音以外、どれも要らないの。\n身を任せていたいの、響き渡る愛の鼓動に。\n\n作詞・作曲は「原田雄一」氏。",
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1024.png",
@@ -3334,6 +3334,19 @@
       "title": "Whiteout"
     },
     {
+      "artist": "OFF White",
+      "releaseType": "2nd single",
+      "url": "https://t7s.jp/release/ingame/1027.html",
+      "lead": "他人の瞳に映る“ワタシ”は何？ 誰かが作った理想なの？\n\n本当の自分を探し求める“ワタシ”を\n優しく歌いあげる\nOFF Whiteの2曲目の奇跡 作詞・作曲は「法戸祐樹」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1027.png",
+      "credit": {
+        "lyrics": "法戸祐樹",
+        "compose": "法戸祐樹"
+      },
+      "implementationDate": "2024-6-25",
+      "title": "白昼夢"
+    },
+    {
       "artist": "4U",
       "releaseType": "15th single",
       "url": "https://t7s.jp/release/ingame/103.html",
@@ -3345,6 +3358,32 @@
       },
       "implementationDate": "2022-6-7",
       "title": "Funny☆Clutch"
+    },
+    {
+      "artist": "Roots.",
+      "releaseType": "8th single",
+      "url": "https://t7s.jp/release/ingame/1031.html",
+      "lead": "やり過ぎくらいで ちょうどいいでしょ 興味ないフリはムダ\n目を逸らしても 結局はCome back 四六時中 私 追いかけてる\nRoots.の小悪魔な誘惑（ウィンク）に\nノックアウト間違いなしの一曲！\n作詞は「Irodori Kaoru」氏、作曲は「湊谷陸」氏、編曲は「三浦博健」氏！",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1031.png",
+      "credit": {
+        "lyrics": "Irodori Kaoru",
+        "compose": "湊谷陸"
+      },
+      "implementationDate": "2024-7-9",
+      "title": "Link Wink"
+    },
+    {
+      "artist": "Asterline",
+      "releaseType": "9th single",
+      "url": "https://t7s.jp/release/ingame/1033.html",
+      "lead": "今すぐ飛び出そう聴こえた！僕らの季節なんだ\n夏に沸き立つ気持ちは止められない！\nAsterlineが歌うはじける爽快夏ソング！\n作詞は「hAck-Ø.」氏、作曲は「KOUGA」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1033.png",
+      "credit": {
+        "lyrics": "hAck-Ø.",
+        "compose": "KOUGA"
+      },
+      "implementationDate": "2024-7-2",
+      "title": "Contrail~for the Summer~"
     },
     {
       "artist": "KARAKURI",

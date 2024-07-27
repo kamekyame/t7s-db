@@ -3386,6 +3386,19 @@
       "title": "Contrail~for the Summer~"
     },
     {
+      "artist": "RiPoP",
+      "releaseType": "5th single",
+      "url": "https://t7s.jp/release/ingame/1035.html",
+      "lead": "ゆらりゆらり回るの 私を乗せてメリーゴーランド なんでかな 苦しくて 足踏み 感情もぐるぐると\n胸の奥に秘めた気持ち、夢の中なら…\nそんな乙女心を紡ぐ一曲。\n作詞・作曲は「櫻澤ヒカル」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1035.png",
+      "credit": {
+        "lyrics": "櫻澤ヒカル",
+        "compose": "櫻澤ヒカル"
+      },
+      "implementationDate": "2024-7-16",
+      "title": "Dreamy-Go-Round"
+    },
+    {
       "artist": "KARAKURI",
       "releaseType": "1st Mini Album",
       "url": "https://t7s.jp/release/ingame/104.html",
@@ -3509,7 +3522,7 @@
       "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/112.png",
       "credit": {
         "lyrics": "裕野",
-        "compose": "Hiroshi Uasmi"
+        "compose": "Hiroshi Usami"
       },
       "implementationDate": "2022-11-20",
       "title": "Along the way"
@@ -3682,6 +3695,19 @@
       },
       "implementationDate": "2023-11-28",
       "title": "Tokimeki♡Soda"
+    },
+    {
+      "artist": "サンボンリボン",
+      "releaseType": "5th single",
+      "url": "https://t7s.jp/release/ingame/128.html",
+      "lead": "泳ぎ慣れた小さな水槽 心地の良い温度にキミの笑顔\n変わりようのないことばかりだと思ってた\nサンボンリボンが歌う5th singleは 大人でも子供でもないぼくらが\n少しずつ変わっていく、そんなノスタルジーを歌った一曲。\n作詞・作曲は「5u5h1」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/128.png",
+      "credit": {
+        "lyrics": "5u5h1",
+        "compose": "5u5h1"
+      },
+      "implementationDate": "2024-7-23",
+      "title": "ネオンテトラ"
     },
     {
       "artist": "サンボンリボン",

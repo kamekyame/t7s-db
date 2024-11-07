@@ -105,12 +105,6 @@ export async function getUnits() {
     const groupEl = element.querySelector(".ttl-character__ttl");
     let groupName = groupEl?.textContent;
     if (groupName === "ナナスタワールド") groupName = "ナナスタW";
-    else if (
-      groupName === "Roots." &&
-      Array.from(groupEl?.parentElement?.classList ?? []).includes(
-        "ttl-character--2053rival",
-      )
-    ) groupName = "2053 ライバル";
     else if (groupName === "enemy") groupName = "エネミー";
     if (!groupName) throw Error("Failed to get group name");
 

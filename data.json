@@ -2112,7 +2112,7 @@
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/72_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/72_idol_l_pc.png",
-      "group": "ライバル"
+      "group": "2053 ライバル"
     },
     {
       "url": "https://t7s.jp/character/chara/73.html",
@@ -2143,7 +2143,7 @@
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/73_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/73_idol_l_pc.png",
-      "group": "ライバル"
+      "group": "2053 ライバル"
     },
     {
       "url": "https://t7s.jp/character/chara/74.html",
@@ -2175,7 +2175,7 @@
       ],
       "normalImgSrc": "https://t7s.jp/image/page/character/modal/74_normal_l_pc.png",
       "idolImgSrc": "https://t7s.jp/image/page/character/modal/74_idol_l_pc.png",
-      "group": "ライバル"
+      "group": "2053 ライバル"
     }
   ],
   "units": [
@@ -3773,6 +3773,19 @@
       },
       "implementationDate": "2024-6-4",
       "title": "Crescendo"
+    },
+    {
+      "artist": "はる☆ジカ（ちいさな）",
+      "releaseType": "3rd single",
+      "url": "https://t7s.jp/release/ingame/134.html",
+      "lead": "『ハネ☆る!!』『SHAKE!!～フリフリしちゃえ～』を歌った はる☆ジカ（ちいさな）の次の新曲はくるくる回る！？\nくるくると回り続ける世界の中で、はる☆ジカ（ちいさな）の二人が明るく元気いっぱいに\n小さな幸せを見つけることの喜びを歌います。\n日常にあるほんの小さな幸せをはる☆ジカ（ちいさな）と一緒に見つけませんか？\n作詞は「裕野」氏、作曲は「三浦博健」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/134.png",
+      "credit": {
+        "lyrics": "裕野",
+        "compose": "三浦博健"
+      },
+      "implementationDate": "2024-10-29",
+      "title": "くるくる☆CYCLE!!"
     },
     {
       "artist": "Ci+LUS",

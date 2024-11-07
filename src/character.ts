@@ -152,10 +152,13 @@ export async function getCharacters() {
   const characters = [];
 
   for await (const element of groupElements) {
-    let groupName = element.querySelector(".ttl-character__ttl")?.textContent;
+    const groupEl = element.querySelector(".ttl-character__ttl");
+    let groupName = groupEl?.textContent;
     if (groupName === "ナナスタワールド") groupName = "ナナスタW";
-    else if (groupName === "2053ライバル") groupName = "2053 ライバル";
-    else if (groupName === "2053 ライバル") groupName = "ライバル";
+    else if (
+      groupName === "ライバル" &&
+      groupEl?.parentElement?.classList.value.includes("rival2")
+    ) groupName = "2053 ライバル";
     else if (groupName === "enemy") groupName = "エネミー";
     if (!groupName) throw Error("Failed to get group name");
 

@@ -3775,6 +3775,19 @@
       "title": "Crescendo"
     },
     {
+      "artist": "はる☆ジカ（ちいさな）",
+      "releaseType": "3rd single",
+      "url": "https://t7s.jp/release/ingame/134.html",
+      "lead": "『ハネ☆る!!』『SHAKE!!～フリフリしちゃえ～』を歌った はる☆ジカ（ちいさな）の次の新曲はくるくる回る！？\nくるくると回り続ける世界の中で、はる☆ジカ（ちいさな）の二人が明るく元気いっぱいに\n小さな幸せを見つけることの喜びを歌います。\n日常にあるほんの小さな幸せをはる☆ジカ（ちいさな）と一緒に見つけませんか？\n作詞は「裕野」氏、作曲は「三浦博健」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/134.png",
+      "credit": {
+        "lyrics": "裕野",
+        "compose": "三浦博健"
+      },
+      "implementationDate": "2024-10-29",
+      "title": "くるくる☆CYCLE!!"
+    },
+    {
       "artist": "Ci+LUS",
       "releaseType": "6th single",
       "url": "https://t7s.jp/release/ingame/136.html",

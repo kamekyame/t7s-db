@@ -51,10 +51,13 @@ export async function getIngames() {
     if (!smMatch) throw Error("Failed to get implementaion date : " + sm);
     const implementationDate = `${smMatch[1]}-${smMatch[2]}-${smMatch[3]}`;
 
-    const artistAndReleaseType = element.querySelector(
+    let artistAndReleaseType = element.querySelector(
       ".box-release-cover__txt--md",
     )
       ?.textContent;
+    artistAndReleaseType = artistAndReleaseType
+      ?.replaceAll("(", "（").replaceAll(")", "）");
+
     const title = trimBrackets(
       element.querySelector(".box-release-cover__txt--la span")
         ?.textContent,

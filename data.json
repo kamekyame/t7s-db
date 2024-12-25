@@ -3347,6 +3347,19 @@
       "title": "白昼夢"
     },
     {
+      "artist": "OFF White",
+      "releaseType": "3rd single",
+      "url": "https://t7s.jp/release/ingame/1028.html",
+      "lead": "OFF Whiteの3rd Singleは愛へのアンビバレントを歌った楽曲。 ただ、気づいてほしかった。ただ、微笑んでほしかった。\nそして、あなたの本心と向き合うと決めた時、少女は……。\n作詞は「Retar」氏、作曲は「新井大樹」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1028.png",
+      "credit": {
+        "lyrics": "Retar",
+        "compose": "新井大樹"
+      },
+      "implementationDate": "2024-12-24",
+      "title": "Leukothea"
+    },
+    {
       "artist": "4U",
       "releaseType": "15th single",
       "url": "https://t7s.jp/release/ingame/103.html",
@@ -3358,6 +3371,19 @@
       },
       "implementationDate": "2022-6-7",
       "title": "Funny☆Clutch"
+    },
+    {
+      "artist": "Stella MiNE",
+      "releaseType": "7th single",
+      "url": "https://t7s.jp/release/ingame/1030.html",
+      "lead": "Stella MiNEが心を込めて歌うのは「Ever since」。 \"あの日からずっと\"Tokyo-7thを駆け抜けている二人。\nその道のりに手を差し伸べ続けてくれた人への感謝の想いを\n彼女達らしい、まっすぐな言葉で歌った曲。\n作詞は「Retar」氏、作曲は「SHINGO KUME」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1030.png",
+      "credit": {
+        "lyrics": "Retar",
+        "compose": "SHINGO KUME"
+      },
+      "implementationDate": "2024-12-10",
+      "title": "Ever since"
     },
     {
       "artist": "Roots.",

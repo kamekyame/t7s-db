@@ -3360,6 +3360,19 @@
       "title": "Leukothea"
     },
     {
+      "artist": "Stella MiNE",
+      "releaseType": "8th single",
+      "url": "https://t7s.jp/release/ingame/1029.html",
+      "lead": "Stella MiNEの8th singleは「Light the Way Home」。\n未来を見つめ、歩み始めた二人は、\n果たしてどんな光を見つけるのか――。\n\n作詞作曲は「浅田秀之」氏！",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1029.png",
+      "credit": {
+        "lyrics": "浅田秀之",
+        "compose": "浅田秀之"
+      },
+      "implementationDate": "2025-6-3",
+      "title": "Light the Way Home"
+    },
+    {
       "artist": "4U",
       "releaseType": "15th single",
       "url": "https://t7s.jp/release/ingame/103.html",

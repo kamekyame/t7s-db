@@ -3412,6 +3412,19 @@
       "title": "Link Wink"
     },
     {
+      "artist": "Roots.",
+      "releaseType": "9th single",
+      "url": "https://t7s.jp/release/ingame/1032.html",
+      "lead": "Hands Up 踊れ Round-Round-Round 掻き乱して欲しいんでしょ？ Right now\n今作でRoots.が描くコンセプトは、眩い光と音の世界。\n最強の夜の花が、今宵も世界にその存在を知らしめる！\n\n作詞は「Irodori Kaoru」氏。作曲は「シバサキユウキ」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/1032.png",
+      "credit": {
+        "lyrics": "Irodori Kaoru",
+        "compose": "シバサキユウキ"
+      },
+      "implementationDate": "2025-8-19",
+      "title": "Round-Round-Round"
+    },
+    {
       "artist": "Asterline",
       "releaseType": "9th single",
       "url": "https://t7s.jp/release/ingame/1033.html",
@@ -3890,6 +3903,19 @@
       },
       "implementationDate": "2025-4-15",
       "title": "Sky☆Blue"
+    },
+    {
+      "artist": "七花少女",
+      "releaseType": "5th single",
+      "url": "https://t7s.jp/release/ingame/138.html",
+      "lead": "七花少女の「トゲノスキマ」が、ついに待望のゲーム内実装！ コレクションアルバム「The Sound of Sister's Step」に初収録されてから、七花少女らしい等身大の歌詞と、夏の空気を感じさせる爽やかな曲の雰囲気も話題を呼んだ。\nありのままの自分を優しく認め、包み込むのは、36℃の夏の暑さなのか――。\nそれとも――。\n\nぜひ、七花少女が表現する『夏』を一緒に感じてほしい。\n\n作詞は「Maho Hamaguchi」氏。作曲は「藤田卓也」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/138.png",
+      "credit": {
+        "lyrics": "Maho Hamaguchi",
+        "compose": "藤田卓也"
+      },
+      "implementationDate": "2025-8-12",
+      "title": "トゲノスキマ"
     },
     {
       "artist": "NI+CORA",

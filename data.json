@@ -3762,6 +3762,19 @@
       "title": "Rockin' On!"
     },
     {
+      "artist": "4U",
+      "releaseType": "17th single",
+      "url": "https://t7s.jp/release/ingame/126.html",
+      "lead": "周りを気にしてついつい頑張りすぎてしまうキミへの応援歌！ キミは傷ついても磨けば光るダイヤモンド！ありのまま輝いていい！\nそんな思いを4Uらしいストレートな言葉で紡いだ楽曲だ！\n\n「最上級に　きらめいて　大丈夫　ほら　Keep it up!!」\n作詞は「HASEGAWA」氏。作曲は「藤田卓也」氏。編曲は「めんま」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/126.png",
+      "credit": {
+        "lyrics": "HASEGAWA",
+        "compose": "藤田卓也"
+      },
+      "implementationDate": "2025-9-9",
+      "title": "Keep it up!!"
+    },
+    {
       "artist": "サンボンリボン",
       "releaseType": "5th single",
       "url": "https://t7s.jp/release/ingame/128.html",

@@ -3801,6 +3801,19 @@
       "title": "Keep it up!!"
     },
     {
+      "artist": "4U",
+      "releaseType": "18th single",
+      "url": "https://t7s.jp/release/ingame/127.html",
+      "lead": "コレクションアルバム「The Sound of Sister’s Step」でしか聴けなかった4Uの楽曲「4evermore」が、ついにゲーム内リリース！  4Uの3人が届ける、温かな安心感に満ちた一曲。\nすべてを優しく包み込むようなメロディと、彼女たちの絆が溶け合う美しいハーモニーが、『キミ』の強張った心さえもそっと解きほぐすことでしょう。\n\n作詞は「セリザワケイコ」氏。作曲は「Akki」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/127.png",
+      "credit": {
+        "lyrics": "セリザワケイコ",
+        "compose": "Akki"
+      },
+      "implementationDate": "2026-1-13",
+      "title": "4evermore"
+    },
+    {
       "artist": "サンボンリボン",
       "releaseType": "5th single",
       "url": "https://t7s.jp/release/ingame/128.html",

@@ -2843,6 +2843,26 @@
       "info": "臨時でナナスタ運営を任された芹沢モモカと晴海シンジュの凸凹ペアは不思議と相性バッチリ！ そんな二人を見守っていたみんなから背中を押されるようにして結成されたユニットです。お調子者でちょっぴり？怠け癖のあるモモカと、しっかり者で世話焼きなシンジュの組み合わせが生み出す可能性は、まさに無限大。楽しもう、夢を見よう、世界中を彩っちゃおう！そんな二人のテーマは、「未来を夢見るオンナノコ」。どのような未来が描かれていくのか、彼女たちのこれからに目が離せません。",
       "name": "しぃ∞モモ（そうだな）",
       "group": "ナナスタシスターズ"
+    },
+    {
+      "url": "https://t7s.jp/character/unit/26.html",
+      "members": [
+        {
+          "stageName": "野ノ原ヒメ",
+          "name": "野ノ原ヒメ",
+          "faceImgSrc": "https://t7s.jp/image/page/character/face/face_26_01.png"
+        },
+        {
+          "stageName": "神城スイ",
+          "name": "神城スイ",
+          "faceImgSrc": "https://t7s.jp/image/page/character/face/face_26_02.png"
+        }
+      ],
+      "visualImgSrc": "https://t7s.jp/image/page/character/unit/unit_26_img.png",
+      "logoImgSrc": "https://t7s.jp/image/page/character/unit/unit_26_logo.png",
+      "info": "しぃ∞モモ（そ～だな）の活躍を目にした野ノ原ヒメと神城スイが、あふれるやる気と情熱を燃やして結成したユニットです。 ナナスタきってのパッションみなぎる二人組の生み出す世界観は、さながら夏の太陽のよう。走り出せば、いつも隣にキミがいる！燦々と輝く二人のテーマは、「ヒリリとアツく、キュンっと弾ける夏の青春！」。どこまでも駆けていく、彼女たちのげんきな姿にご期待ください！",
+      "name": "しぃ∞モモ（そうだな）",
+      "group": "ナナスタシスターズ"
     }
   ],
   "ingames": [

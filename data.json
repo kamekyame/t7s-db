@@ -2861,7 +2861,7 @@
       "visualImgSrc": "https://t7s.jp/image/page/character/unit/unit_26_img.png",
       "logoImgSrc": "https://t7s.jp/image/page/character/unit/unit_26_logo.png",
       "info": "しぃ∞モモ（そ～だな）の活躍を目にした野ノ原ヒメと神城スイが、あふれるやる気と情熱を燃やして結成したユニットです。 ナナスタきってのパッションみなぎる二人組の生み出す世界観は、さながら夏の太陽のよう。走り出せば、いつも隣にキミがいる！燦々と輝く二人のテーマは、「ヒリリとアツく、キュンっと弾ける夏の青春！」。どこまでも駆けていく、彼女たちのげんきな姿にご期待ください！",
-      "name": "しぃ∞モモ（そうだな）",
+      "name": "ヒメ=スイ（げんきな）",
       "group": "ナナスタシスターズ"
     }
   ],
@@ -4060,6 +4060,19 @@
       },
       "implementationDate": "2025-7-15",
       "title": "XX-FADE!!"
+    },
+    {
+      "artist": "ヒメ=スイ（げんきな）",
+      "releaseType": "1st single",
+      "url": "https://t7s.jp/release/ingame/143.html",
+      "lead": "お互いを大切なパートナーと認め合う、ナナスタきっての元気な二人！ 野ノ原ヒメと神城スイからなる「ヒメ=スイ（げんきな）」の1st singleは「ヒリキュン♡Summer」！\n真夏の太陽の下、ココロもカラダもついつい「ヒリリ」。\n「キュンっ♪」と弾ける、恋の予感…♪\n\n眩しいキミの笑顔と、一歩近づきたいと願う切ない気持ちが、この夏のすべてを彩ります。\n聴けば必ず「ヒリキュン♡」しちゃう、爽快サマーポップ！\n\n作詞は「Retar」氏。作曲は「18mg」氏。",
+      "jacketSrc": "https://t7s.jp/image/page/release/ingame/cover/143.png",
+      "credit": {
+        "lyrics": "Retar",
+        "compose": "18mg"
+      },
+      "implementationDate": "2026-6-1",
+      "title": "ヒリキュン♡Summer"
     },
     {
       "artist": "しぃ∞モモ（そうだな）",

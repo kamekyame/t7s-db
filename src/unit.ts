@@ -110,7 +110,9 @@ export async function getUnits() {
 
     const charaElements = querySelectorAll(element, ".box-unit-list__list a");
     for await (const element of charaElements) {
-      let name = element.querySelector(".ttl-unit img")?.getAttribute("alt");
+      let name = element.querySelector(".box-unit-list__img")?.getAttribute(
+        "alt",
+      );
       name = name?.replaceAll("(", "（").replaceAll(")", "）");
       if (name === "nanabanaotome") name = "七花少女";
       if (!name) throw Error("Failed to get character name");
